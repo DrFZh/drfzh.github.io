@@ -16,9 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
+<span class='anchor' id='about-me'></span>
 I received double Ph.D. degrees from Harbin Institute of Technology, China, and University of Groningen, the Netherlands. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands.
 
 ***Postdoc openings are always available largely in systems and control !***
+
 
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
@@ -79,6 +81,7 @@ ___
 </div>
 
 
+<span class='anchor' id='Publications'></span>
 # 📝 Publications
 __Journal Articles__
 
@@ -171,6 +174,7 @@ __Conference Proceedings__
 [C1] Y.H. Geng, W. Lu, F. Zhang. Robust sliding mode control for attitude control of small satellite. IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
 
 
+<span class='anchor' id='Projects'></span>
 # 👨‍💻 Projects
 
 2020.12 - 2025.11, Multi-DOF Control of Electrostatic Suspension Systems
@@ -178,6 +182,7 @@ __Conference Proceedings__
 2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
 
 
+<span class='anchor' id='ProfessionalService'></span>
 # 💼 Professional Service
 - Associate Editor: European Journal of Control, IET Control Theory & Applications
   
@@ -188,11 +193,13 @@ __Conference Proceedings__
 - Reviewer: IEEE Transactions on Automatic Control, Automatica, IEEE Transactions on Control of Network Systems, Journal of Robust and Nonlinear Control, Systems & Control Letters, International Journal of Control, European Journal of Control, Nonlinear Analysis: Hybrid Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Systems, Man and Cybernetics: Systems, Journal of The Franklin Institute, Asian Journal of Control, IEEE Control Systems Letters, Optimal Control Applications and Methods, International Journal of Adaptive Control and Signal Processing, IEEE Systems Journal, IEEE Internet of Things Journal
 
 
+<span class='anchor' id='Courses'></span>
 # 📖 Courses
 - Undergraduate Courses: MATLAB with Applications
 - Postgraduate Courses: Robust and Adaptive Control
 
 
+<span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 ___Current Postdocs___
 
@@ -228,6 +235,7 @@ ___Former undergraduates___
 2022.11 - 2023.5: YuAng Ke (master student, SYSU), MingShuai Wu (master student, SYSU), Ke Xu (master student, PKU)
 
 
+<span class='anchor' id='UsefulLinks'></span>
 #  Useful Links
 
 https://ieeecss.org/conferences/all
