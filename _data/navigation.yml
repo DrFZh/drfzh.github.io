@@ -1,22 +1,22 @@
 # main links links
 main:
-#  - title: "ResearchInterests"
-#    url: "/#ResearchInterests"
+  - title: "ResearchInterests"
+    url: "/#ResearchInterests"
 
-#  - title: "Publications"
-#    url: "/#Publications"
+  - title: "Publications"
+    url: "/#Publications"
 
-#  - title: "Projects"
-#    url: "/#Projects"
+  - title: "Projects"
+    url: "/#Projects"
 
-#  - title: "ProfessionalService"
-#    url: "/#ProfessionalService"
+  - title: "ProfessionalService"
+    url: "/#ProfessionalService"
 
-#  - title: "Courses"
-#    url: "/#Courses"
+  - title: "Courses"
+    url: "/#Courses"
 
-#  - title: "GroupMembers"
-#    url: "/#GroupMembers"
+  - title: "GroupMembers"
+    url: "/#GroupMembers"
 
-#  - title: "UsefulLinks"
-#    url: "/#UsefulLinks"
+  - title: "UsefulLinks"
+    url: "/#UsefulLinks"
