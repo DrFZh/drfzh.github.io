@@ -34,7 +34,7 @@ ___
   <div style="flex: 1; margin-left: -45px;">
       <img src='/images/circle_200.gif' alt="sym" style="width: 100%; height: auto;">
    </div>
-  <div style="flex: 1; margin-left: -80px;">
+  <div style="flex: 1; margin-left: -20px;">
       <img src='/images/circle_slices_200.png' alt="sym" style="width: 90%; height: 100%;">
     </div>
   </div>
