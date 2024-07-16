@@ -244,4 +244,5 @@ https://ieeecss.org/conferences/all
 <span class='anchor' id='OpenProblems'></span>
 #  Open Problems
 
+In the case you are also interested in the following problems, please do not hesitate to drop me emails. I will be happy to have discussions with you.
 - Absolute Observer Design of Lur'e Systems
