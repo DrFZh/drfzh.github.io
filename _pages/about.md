@@ -244,6 +244,8 @@ https://ieeecss.org/conferences/all
 <span class='anchor' id='OpenProblems'></span>
 #  Open Problems
 
-In the case you are also interested in the following problems, please do not hesitate to drop me an email with your considerations. Thanks.
+In the case you are also interested in the following problems, please do not hesitate to drop me an email with your considerations. Thank you.
+
 - Absolute Observer Design of Lur'e Systems
+
 - Absolute Output Regulation of Lur'e Systems
