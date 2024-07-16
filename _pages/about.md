@@ -246,3 +246,4 @@ https://ieeecss.org/conferences/all
 
 In the case you are also interested in the following problems, please do not hesitate to drop me an email with your considerations. Thanks.
 - Absolute Observer Design of Lur'e Systems
+- Absolute Output Regulation of Lur'e Systems
