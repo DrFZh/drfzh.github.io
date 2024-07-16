@@ -239,3 +239,9 @@ ___Former undergraduates___
 #  Useful Links
 
 https://ieeecss.org/conferences/all
+
+
+<span class='anchor' id='OpenProblems'></span>
+#  Open Problems
+
+- Absolute Observer Design of Lur'e Systems
