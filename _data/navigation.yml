@@ -22,3 +22,6 @@ main:
 
   - title: "UsefulLinks"
     url: "/#UsefulLinks"
+
+  - title: "OpenProblems"
+    url: "/#OpenProblems"
