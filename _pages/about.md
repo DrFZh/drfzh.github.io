@@ -250,7 +250,7 @@ In the case you are also interested in the following problems, please do not hes
 
 - Absolute Output Regulation of Lur'e Systems
 
-# 中文简介
+# 个人简介
 
 张凡，男，中山大学(深圳)航空航天学院宇航工程系硕导、博导，中国指挥与控制学会网络科学与工程专委会委员、中国空间科学学会空间智能专委会委员，European Journal of Control(欧洲控制学会官方期刊)、IET Control Theory & Applications编委，IEEE Control Systems Society Conference Editorial Board，多个控制领域顶刊审稿人。
 
