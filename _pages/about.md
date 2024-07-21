@@ -249,3 +249,9 @@ In the case you are also interested in the following problems, please do not hes
 - Absolute Observer Design of Lur'e Systems
 
 - Absolute Output Regulation of Lur'e Systems
+
+# 中文简介
+
+张凡，男，中山大学(深圳)航空航天学院宇航工程系硕导、博导，中国指挥与控制学会网络科学与工程专委会委员、中国空间科学学会空间智能专委会委员，European Journal of Control(欧洲控制学会官方期刊)、IET Control Theory & Applications编委，IEEE Control Systems Society Conference Editorial Board，多个控制领域顶刊审稿人。
+
+欢迎有强烈兴趣从事无人系统智主导航、制导、控制(偏应用)或无人集群协同控制与决策(偏理论)的研究生(本科阶段高数、线代、英语成绩优异；硕士阶段基本掌握至少一种控制方法)一起探索控制理论与控制工程的前沿课题。
