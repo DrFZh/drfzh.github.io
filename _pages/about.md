@@ -249,3 +249,5 @@ In the case you are also interested in the following problems, please do not hes
 - Absolute Observer Design of Lur'e Systems
 
 - Absolute Output Regulation of Lur'e Systems
+
+- Fully distributed self-synchronization of directed Lur'e networks
