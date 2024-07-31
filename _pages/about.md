@@ -186,7 +186,7 @@ __Conference Proceedings__
 # 💼 Professional Service
 - Associate Editor: European Journal of Control, IET Control Theory & Applications
   
-- Conference Editorial Board: CDC, ACC, CCTA
+- Conference Editorial Board: IEEE Control Systems Society
 
 - Program Committee Member: 20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
 
