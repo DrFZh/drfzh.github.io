@@ -30,6 +30,7 @@ My current research interests include distributed coordination, enhanced observe
 ___
 - **Cooperative Fencing Control of Multi-Robot Systems**
 
+<!--
 <div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
   <div style="flex: 1; margin-left: -45px;">
       <img src='/images/circle_200.gif' alt="sym" style="width: 100%; height: auto;">
@@ -38,10 +39,11 @@ ___
       <img src='/images/circle_slices_200.png' alt="sym" style="width: 90%; height: 100%;">
     </div>
   </div>
+-->
 
 ___
 - **Cooperative Pointing Control of Multi-Robot Systems**
-
+<!--
 <div class="paper-box-image" style="display: flex; width: 800px; height:auto; justify-content: space-between;">
   <div style="flex: 1;  margin-left: 20px;">
     <div class="badge">Target Localization</div>
@@ -52,10 +54,11 @@ ___
     <img src='/images/AGIFp7.gif' alt="sym" style="width: 100%; height: auto;">
   </div>
 </div>
+-->
 
 ___
 - **6DOF TM Control for Gravitational-Wave Detection**
-
+<!--
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
     <img src='/images/TM.png' alt="sym" style="width: 90%; height: auto;">
@@ -79,6 +82,7 @@ ___
     <img src='/images/角速度.png' alt="sym" style="width: 100%; height: auto;">
   </div>
 </div>
+-->
 
 
 <span class='anchor' id='Publications'></span>
