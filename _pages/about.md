@@ -27,7 +27,6 @@ I received both the B.S. and the M.S. degrees from Harbin Institute of Technolog
 
 My current research interests include distributed coordination, enhanced observer design, LMI techniques, SDRE techniques, and their applications in autonomous systems and robots.
 
-___
 - **Cooperative Fencing Control of Multi-Robot Systems**
 
 <!--
@@ -41,7 +40,6 @@ ___
   </div>
 -->
 
-___
 - **Cooperative Pointing Control of Multi-Robot Systems**
 
 <div class="paper-box-image" style="display: none; width: 800px; height:auto; justify-content: space-between;">
@@ -55,7 +53,6 @@ ___
   </div>
 </div>
 
-___
 - **6DOF TM Control for Gravitational-Wave Detection**
 
 <div class="paper-box-image" style="display: none; justify-content: space-between;">
