@@ -124,25 +124,27 @@ __Book Chapters__
 ___
 __Conference Proceedings__
 
-[C11] S.Y. Meng, F.W. Meng, F. Zhang, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, _to appear_, Toronto, Canada, July 8-12, 2024.
+[C12] S.Y. Meng, F.W. Meng, F. Zhang, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, _to appear_, Toronto, Canada, July 8-12, 2024.
 
-[C10] H. Arezki, F. Zhang, A. Zemouche. A HG/LMI-based observer for a tumor growth model. European Control Conference, pp. 259-263, London, UK, July 12-15, 2022
+[C11] C. Liu, F. Zhang X.Y. Liao, Z.Z. Zhang. Two distributed singleton formation avoidance strategies for noncooperative target fencing. Youth Academic Annual Conference of Chinese Association of Automation, pp.1255-1260, DaLin, China, June 7-9, 2024.
 
-[C9] F. Zhang, H.L. Liang, G.H. Wen, A. Zemouche, W.W. Yu. Absolute stabilization of Lur'e systems by periodically intermittent control. IEEE International Conference on Control and Automation invited session, pp. 1102-1107, Edinburgh, Scotland, July 16-19, 2019
+[C10] H. Arezki, F. Zhang, A. Zemouche. A HG/LMI-based observer for a tumor growth model. European Control Conference, pp.259-263, London, UK, July 12-15, 2022
 
-[C8] F. Zhang, W.W. Yu, G.H. Wen, A. Zemouche. Practical absolute stabilization of Lur'e systems via periodic event-triggered feedback. China-Qatar International Workshop on Artificial Intelligence and Applications to Intelligent Manufacturing, pp. 42-47, Doha, Qatar, January 1-4, 2019
+[C9] F. Zhang, H.L. Liang, G.H. Wen, A. Zemouche, W.W. Yu. Absolute stabilization of Lur'e systems by periodically intermittent control. IEEE International Conference on Control and Automation invited session, pp.1102-1107, Edinburgh, Scotland, July 16-19, 2019
 
-[C7] H.L. Liang, Z. Zhou, F. Zhang, C. Peng, Y.L. Wang. Stochastic stability of evolutionary prisoner's dilemma. Australian & New Zealand Control Conference, pp. 1-6, Melbourne, Australia, December 6-8, 2018
+[C8] F. Zhang, W.W. Yu, G.H. Wen, A. Zemouche. Practical absolute stabilization of Lur'e systems via periodic event-triggered feedback. China-Qatar International Workshop on Artificial Intelligence and Applications to Intelligent Manufacturing, pp.42-47, Doha, Qatar, January 1-4, 2019
 
-[C6] P.F. Lu, W.W. Yu, F. Zhang. Leader-follower formation control with mismatched compasses. Chinese Control Conference invited session, pp. 8821-8826, DaLian, China, July 26-28, 2017
+[C7] H.L. Liang, Z. Zhou, F. Zhang, C. Peng, Y.L. Wang. Stochastic stability of evolutionary prisoner's dilemma. Australian & New Zealand Control Conference, pp.1-6, Melbourne, Australia, December 6-8, 2018
 
-[C5] F. Zhang, M. Mazo Jr., N. van de Wouw. Absolute stabilization of Lur'e systems under event-triggered feedback. IFAC World Congress open invited session, pp. 15866-15871, Toulouse, France, July 9-14, 2017
+[C6] P.F. Lu, W.W. Yu, F. Zhang. Leader-follower formation control with mismatched compasses. Chinese Control Conference invited session, pp.8821-8826, DaLian, China, July 26-28, 2017
 
-[C4] A.V. Proskurnikov, F. Zhang, M. Cao, J.M.A. Scherpen. A general criterion for synchronization of incrementally dissipative nonlinearly coupled agents. European Control Conference, pp. 581-586, Linz, Austria, July 15-17, 2015
+[C5] F. Zhang, M. Mazo Jr., N. van de Wouw. Absolute stabilization of Lur'e systems under event-triggered feedback. IFAC World Congress open invited session, pp.15866-15871, Toulouse, France, July 9-14, 2017
 
-[C3] F. Zhang, W.G. Xia, H.L. Trentelman, K.H. Johansson, J.M.A. Scherpen. Robust synchronization of directed Lur'e networks with incremental nonlinearities. IEEE Multi-Conference on Systems and Control, pp. 276-281, Antibes, France, October 8-10 2014
+[C4] A.V. Proskurnikov, F. Zhang, M. Cao, J.M.A. Scherpen. A general criterion for synchronization of incrementally dissipative nonlinearly coupled agents. European Control Conference, pp.581-586, Linz, Austria, July 15-17, 2015
 
-[C2] F. Zhang, P. Ramazi, M. Cao. Distributed concurrent targeting for linear arrays of point sources. IFAC World Congress, pp. 8323-8328, Cape Town, South Africa, August 24-29, 2014
+[C3] F. Zhang, W.G. Xia, H.L. Trentelman, K.H. Johansson, J.M.A. Scherpen. Robust synchronization of directed Lur'e networks with incremental nonlinearities. IEEE Multi-Conference on Systems and Control, pp.276-281, Antibes, France, October 8-10 2014
+
+[C2] F. Zhang, P. Ramazi, M. Cao. Distributed concurrent targeting for linear arrays of point sources. IFAC World Congress, pp.8323-8328, Cape Town, South Africa, August 24-29, 2014
 
 [C1] Y.H. Geng, W. Lu, F. Zhang. Robust sliding mode control for attitude control of small satellite. IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
 
