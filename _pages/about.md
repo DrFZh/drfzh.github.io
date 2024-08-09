@@ -176,9 +176,6 @@ __Conference Proceedings__
 
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
-___Current Postdocs___
-
-2023.8 - : HongFu Wang
 
 ___Current Ph.D. students___
 
