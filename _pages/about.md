@@ -19,8 +19,6 @@ redirect_from:
 
 I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, China, and double Ph.D. degrees from HIT and University of Groningen, the Netherlands. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. I also visited the Institute of Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, for weeks, and the Intelligent Biomimetic Design Lab, College of Engineering, Peking University, for months.
 
-***Postdoc openings are always available largely in systems and control !***
-
 
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
