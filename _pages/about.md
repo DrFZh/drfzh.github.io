@@ -23,33 +23,7 @@ I received both the B.S. and the M.S. degrees from Harbin Institute of Technolog
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
 
-My current research interests include distributed coordination, enhanced observer design, LMI techniques, SDRE techniques, and their applications in autonomous systems and robots.
-
-- **Cooperative Target-Fencing Control of Multi-Robot Systems**
-
-<!--
-<div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
-  <div style="flex: 1; margin-left: -45px;">
-      <img src='/images/circle_200.gif' alt="sym" style="width: 100%; height: auto;">
-   </div>
-  <div style="flex: 1; margin-left: -42px;">
-      <img src='/images/circle_slices_200.png' alt="sym" style="width: 90%; height: 100%;">
-    </div>
-  </div>
--->
-
-- **Cooperative Target-Pointing Control of Multi-Robot Systems**
-
-<div class="paper-box-image" style="display: none; width: 800px; height:auto; justify-content: space-between;">
-  <div style="flex: 1;  margin-left: 20px;">
-    <div class="badge">Target Localization</div>
-    <img src='/images/AGIFp3.gif' alt="sym" style="width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1; margin-left: 0px;">
-    <div class="badge">Cooperative Pointing</div>
-    <img src='/images/AGIFp7.gif' alt="sym" style="width: 100%; height: auto;">
-  </div>
-</div>
+My current research interests include Cooperative Target Localization, Cooperative Target-Fencing Control and Target-Pointing control of Multi-Robot Systems, and other relevant distributed coordination problems.
 
 
 <span class='anchor' id='Publications'></span>
