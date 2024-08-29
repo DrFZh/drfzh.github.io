@@ -124,7 +124,7 @@ __Conference Proceedings__
 <span class='anchor' id='Projects'></span>
 # 👨‍💻 Projects
 
-2020.12 - 2025.11, High-Precision Multi-DOF Control of Electrostatic Suspension Systems
+2020.12 - 2025.11, High-Precision Multi-DOF Control of Inertial Sensors
 
 2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
 
