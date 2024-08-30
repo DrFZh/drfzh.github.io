@@ -96,9 +96,9 @@ __Book Chapters__
 ___
 __Conference Proceedings__
 
-[C12] S.Y. Meng, F.W. Meng, F. Zhang, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, _to appear_, Toronto, Canada, July 8-12, 2024.
+[C12] S.Y. Meng, F.W. Meng, F. Zhang, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, _to appear_, Toronto, Canada, July 8-12, 2024
 
-[C11] C. Liu, F. Zhang, X.Y. Liao, Z.Z. Zhang. Two distributed singleton formation avoidance strategies for noncooperative target fencing. Youth Academic Annual Conference of Chinese Association of Automation, pp.1255-1260, DaLin, China, June 7-9, 2024.
+[C11] C. Liu, F. Zhang, X.Y. Liao, Z.Z. Zhang. Two distributed singleton formation avoidance strategies for noncooperative target fencing. Youth Academic Annual Conference of Chinese Association of Automation, pp.1255-1260, DaLin, China, June 7-9, 2024
 
 [C10] H. Arezki, F. Zhang, A. Zemouche. A HG/LMI-based observer for a tumor growth model. European Control Conference, pp.259-263, London, UK, July 12-15, 2022
 
