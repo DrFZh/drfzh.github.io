@@ -23,7 +23,7 @@ I received both the B.S. and the M.S. degrees from Harbin Institute of Technolog
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
 
-My current research interests include Enhanced Observer Design, Nonaffine Control, Cooperative Target Localization, Cooperative Fencing Control & Pointing control of Multi-Robot Systems, and other relevant distributed coordination problems.
+My current research interests include Enhanced Observer Design, Nonaffine Control, Cooperative Target Localization, Cooperative Fencing Control & Pointing control, and other relevant distributed coordination problems.
 
 
 <span class='anchor' id='Publications'></span>
