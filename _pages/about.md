@@ -30,7 +30,7 @@ My current research interests include Enhanced Observer Design, Nonaffine Contro
 # 📝 Publications
 __Journal Articles__
 
-[J29] F. Zhang, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of coplanar multi-robot systems via distributed target estimation. Automatica, _under review_, 2024
+[J29] F. Zhang, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation._under review_, 2024
 
 [J28] H.X. Hu, G.H. Wen*, Y. Chen, F. Zhang, T.W. Huang. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _under review_, 2023
 
