@@ -23,7 +23,7 @@ I received both the B.S. and the M.S. degrees from Harbin Institute of Technolog
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
 
-My current research interests include Enhanced Observer Design, Nonsmooth Control, Distributed Estimation, Cooperative Target Localization, Cooperative Fencing Control & Pointing control, and other relevant distributed coordination problems.
+My current research interests include Enhanced Observer Design, Nonsmooth Control, Learing Control, Distributed Estimation, Cooperative Target Localization, Cooperative Fencing Control & Pointing control, and other relevant distributed coordination problems.
 
 
 <span class='anchor' id='Publications'></span>
@@ -100,7 +100,9 @@ __Book Chapters__
 ___
 __Conference Proceedings__
 
-[C12] S.Y. Meng, F.W. Meng, F. Zhang, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, _to appear_, Toronto, Canada, July 8-12, 2024
+[C13] S.Y. Meng, F.W. Meng, F. Zhang, Q.H. Nguyen, M. Alma, A. Zemouche. Distributed observer with unknown input estimation for vehicle platoons under sensor faults. American Control Conference, _submitted_, Denver, Colorado, USA, July 8-10, 2025
+
+[C12] S.Y. Meng, F.W. Meng, F. Zhang, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, pp.1350-1354, Toronto, Canada, July 8-12, 2024
 
 [C11] C. Liu, F. Zhang, X.Y. Liao, Z.Z. Zhang. Two distributed singleton formation avoidance strategies for noncooperative target fencing. Youth Academic Annual Conference of Chinese Association of Automation, pp.1255-1260, DaLin, China, June 7-9, 2024
 
