@@ -30,6 +30,8 @@ My current research interests include Enhanced Observer Design, Nonaffine Contro
 # 📝 Publications
 __Journal Articles__
 
+[J31] C. Liu, Z.Y. Chen, F. Chen, W.W Yu, F. Zhang*. Flexible target-fencing control with distributed singleton formation avoidance. 2024
+
 [J30] S.Y. Meng, F.W. Meng, F. Zhang, Q.H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. _under review_, 2024
 
 [J29] F. Zhang, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. _under review_, 2024
