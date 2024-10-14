@@ -30,9 +30,9 @@ My current research interests include Enhanced Observer Design, Nonsmooth Contro
 # 📝 Publications
 __Journal Articles__
 
-[J32] H.F. Wang, G.H. Wen, W.C. Xue, Z.P. Fan, F. Zhang. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. _submitted_, 2024
+[J32] H.F. Wang, G.H. Wen, W.C. Xue, Z.P. Fan, F. Zhang. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. _under review_, 2024
 
-[J31] C. Liu, Z.Y. Chen, F. Chen, W.W Yu, F. Zhang. Flexible target-fencing control with distributed singleton formation avoidance. _submitted_, 2024
+[J31] C. Liu, Z.Y. Chen, F. Chen, W.W Yu, F. Zhang. Flexible target-fencing control with distributed singleton formation avoidance. _under review_, 2024
 
 [J30] S.Y. Meng, F.W. Meng, F. Zhang, Q.H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. _under review_, 2024
 
