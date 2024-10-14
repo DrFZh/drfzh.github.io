@@ -194,7 +194,9 @@ ___Former undergraduates___
 <span class='anchor' id='UsefulLinks'></span>
 #  Useful Links
 
-https://ieeecss.org/conferences/all
+ieeecss.org/conferences/all
+
+www.ifac-control.org/conferences
 
 
 <span class='anchor' id='OpenProblems'></span>
