@@ -30,11 +30,9 @@ My current research interests include Enhanced Observer Design, Nonsmooth Contro
 # 📝 Publications
 __Journal Articles__
 
-[J32] H.F. Wang, G.H. Wen, W.C. Xue, Z.P. Fan, F. Zhang. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. _under review_, 2024
+[J31] H.F. Wang, G.H. Wen, W.C. Xue, Z.P. Fan, F. Zhang. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. _under review_, 2024
 
-[J31] C. Liu, Z.Y. Chen, F. Chen, W.W Yu, F. Zhang. Flexible target-fencing control with distributed singleton formation avoidance. _under review_, 2024
-
-[J30] S.Y. Meng, F.W. Meng, F. Zhang, Q.H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. _under review_, 2024
+[J30] C. Liu, Z.Y. Chen, F. Chen, W.W Yu, F. Zhang. Flexible target-fencing control with distributed singleton formation avoidance. _under review_, 2024
 
 [J29] F. Zhang, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. _under review_, 2024
 
@@ -102,7 +100,9 @@ __Book Chapters__
 ___
 __Conference Proceedings__
 
-[C13] S.Y. Meng, F.W. Meng, F. Zhang, Q.H. Nguyen, M. Alma, A. Zemouche. Distributed observer with unknown input estimation for vehicle platoons under sensor faults. American Control Conference, _submitted_, Denver, Colorado, USA, July 8-10, 2025
+[C14] S.Y. Meng, F.W. Meng, F. Zhang, Q.H. Nguyen, M. Alma, A. Zemouche. Distributed observer with unknown input estimation for vehicle platoons under sensor faults. American Control Conference, _under review_, Denver, Colorado, USA, July 8-10, 2025
+
+[C13] S.Y. Meng, F.W. Meng, F. Zhang, Q.H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, _under review_, Denver, Colorado, USA, July 8-10, 2025
 
 [C12] S.Y. Meng, F.W. Meng, F. Zhang, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, pp.1350-1354, Toronto, Canada, July 8-12, 2024
 
