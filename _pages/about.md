@@ -156,7 +156,7 @@ __Conference Proceedings__
 
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
-
+欢迎自动化、应用数学等相关专业同学一起攻关协同控制与决策、智能/仿生导航的前沿课题！
 ___Current Ph.D. students___
 
 2024.9 - : ZhiMing Yang, DanYu Li
