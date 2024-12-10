@@ -159,7 +159,7 @@ __Conference Proceedings__
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 
-诚邀 自动化、机器人、智能工程、应用数学 等相关专业的同学一起攻关 协同控制与决策、惯性/视觉/智能/仿生导航 的前沿课题！
+诚邀 自动化、机器人、智能工程、应用数学 等相关专业的同学一起攻关 协同控制与决策、惯性/视觉/智能导航 的前沿课题！
 
 ___Current Ph.D. students___
 
