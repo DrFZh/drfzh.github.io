@@ -105,9 +105,7 @@ __Book Chapters__
 ___
 __Conference Proceedings__
 
-[C14] S.Y. Meng, F.W. Meng, F. Zhang, Q.H. Nguyen, M. Alma, A. Zemouche. Distributed observer with unknown input estimation for vehicle platoons under sensor faults. American Control Conference, _under review_, Denver, Colorado, USA, July 8-10, 2025
-
-[C13] S.Y. Meng, F.W. Meng, F. Zhang, Q.H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, _under review_, Denver, Colorado, USA, July 8-10, 2025
+[C13] S.Y. Meng, F.W. Meng, F. Zhang, Q.H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, _to appear_, Denver, Colorado, USA, July 8-10, 2025
 
 [C12] S.Y. Meng, F.W. Meng, F. Zhang, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, pp.1350-1354, Toronto, Canada, July 8-12, 2024
 
