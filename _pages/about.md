@@ -36,9 +36,9 @@ __Journal Articles__
 
 [J30] C. Liu, Z.Y. Chen, F. Chen, W.W Yu, F. Zhang. Flexible target-fencing control with distributed singleton formation avoidance. _under review_, 2024
 
-[J29] F. Zhang, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, to appear, 2025
+[J29] H.X. Hu, G.H. Wen*, Y. Chen, F. Zhang, T.W. Huang. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _under review_, 2024
 
-[J28] H.X. Hu, G.H. Wen*, Y. Chen, F. Zhang, T.W. Huang. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _under review_, 2024
+[J28] F. Zhang, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, to appear, 2025
 
 [J27] S.Y. Meng, F.W. Meng*, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. Observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications. Automatica _regular paper_, _online_, 2023
 
@@ -161,7 +161,7 @@ __Conference Proceedings__
 
 诚邀 自动化、机器人、智能工程、应用数学 等相关专业的同学一起攻关 协同控制与决策、惯性/视觉/智能导航 的前沿课题！
 
-欢迎有软硬件开发、图像视觉等基础的同学加入面向低空经济的飞行器关键技术研发事业。
+欢迎有软硬件开发、图像视觉算法等基础的同学加入面向低空经济的飞行器关键技术研发事业。
 
 ___Current Ph.D. students___
 
