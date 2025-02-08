@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, China, and double Ph.D. degrees from HIT and University of Groningen, the Netherlands. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. I also visited the Institute of Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab, College of Engineering, Peking University, for weeks.
+I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT and University of Groningen. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, and Delft University of Technology. I also visited the Institute of Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab, College of Engineering, Peking University, for weeks.
 
 诚邀 自动化、机器人、智能工程、应用数学 等相关专业的同学一起攻关 协同控制与决策、惯性/视觉/智能导航 的前沿课题！
 
-欢迎有 软硬件开发、控制工程、机器视觉 等相关基础的同学加入面向低空经济的飞行器关键技术研发事业。
+欢迎有 软硬件开发、控制工程、机器视觉 等相关基础的同学加入飞行器关键技术研发事业。
 
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
@@ -41,7 +41,7 @@ __Journal Articles__
 
 [J29] H.X. Hu, G.H. Wen*, Y. Chen, F. Zhang, T.W. Huang. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _under review_, 2024
 
-[J28] F. Zhang, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, to appear, 2025
+[J28] F. Zhang, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, _online_, 2025
 
 [J27] S.Y. Meng, F.W. Meng*, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. Observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications. Automatica _regular paper_, _online_, 2023
 
