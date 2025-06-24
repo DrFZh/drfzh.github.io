@@ -19,9 +19,9 @@ redirect_from:
 
 I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT and University of Groningen. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, and Delft University of Technology. I also visited the Institute of Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab, College of Engineering, Peking University, for weeks.
 
-诚邀 自动化、机器人、智能工程、应用数学 等相关专业的同学一起攻关 协同控制与决策、惯性/视觉/智能导航 的前沿课题！
+诚邀 自动化、机器人、智能工程、应用数学 等相关专业的同学一起攻关 协同控制与决策、惯性/视觉/智能导航 的前沿课题.
 
-欢迎有 软硬件开发、控制工程、机器视觉 等相关基础的同学加入飞行器关键技术研发事业。
+欢迎有 软硬件开发、控制工程、机器视觉 等相关基础的同学加入飞行器关键技术研发事业.
 
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
