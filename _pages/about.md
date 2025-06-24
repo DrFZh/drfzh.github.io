@@ -45,7 +45,7 @@ __Journal Articles__
 
 <p> [J29] H.X. Hu, G.H. Wen*, Y. Chen, F. Zhang, T.W. Huang. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _under review_, 2024 </p>
 
-[J28] 张凡, C.L. Jin*, 夏卫国, 孙希明, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, _online_, 2025
+[J28] 张凡, C.L. Jin*, 夏卫国, 孙希明, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, 197:1-8, March 2025
 
 [J27] S.Y. Meng, F.W. Meng*, 张凡, Q. Li, Y. Zhang, A. Zemouche. Observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications. Automatica _regular paper_, _online_, 2023
 
