@@ -188,7 +188,7 @@ ___Former master students___
 
 2022.9 - 2025.6: JiaBo Liu (飞控工程师, 南昌洪都航空)
 
-2021.9 - 2024.6: HongJie Fang (控制工程师, 深圳市固胜智能科技)
+2021.9 - 2024.6: HongJie Fang (控制工程师, 深圳固胜智能)
 
 2021.9 - 2024.6: ZhiMing Yang (博士生, SYSU)
 
