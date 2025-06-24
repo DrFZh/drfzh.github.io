@@ -89,7 +89,7 @@ __Journal Articles__
 
 [J6] 袁帅*, 张凡, S. Baldi. Adaptive tracking of switched nonlinear systems with prescribed performance using a reference-dependent reparametrization approach. International Journal of Control, 92(6): 1243-1251, 2019
 
-[J5] 张凡, H.L. Trentelman*, G. Feng, J.M.A. Scherpen. Absolute stabilization of Lur'e systems via dynamic output feedback. European Journal of Control, 44:15-26, November 2018
+[J5] 张凡, H.L. Trentelman*, 冯刚, J.M.A. Scherpen. Absolute stabilization of Lur'e systems via dynamic output feedback. European Journal of Control, 44:15-26, November 2018
 
 [J4] 张凡*, H.L. Trentelman, J.M.A. Scherpen. Robust cooperative output regulation of heterogeneous Lur'e networks. International Journal of Robust and Nonlinear Control, 27(16):3061-3078, 2017
 
