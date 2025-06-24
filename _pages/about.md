@@ -37,7 +37,7 @@ __Journal Articles__
 
 [J32] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. _under review_, 2024
 
-[J31] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. _under review 2nd round_, 2024
+[J31] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 2nd round_, 2024
 
 [J30] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Flexible target-fencing control with distributed singleton formation avoidance. _under review_, 2024
 
