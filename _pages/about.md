@@ -102,7 +102,7 @@ __Journal Articles__
 ___
 __Book Chapters__
 
-[B1] J.J. Fu, G.H. Wen, Y.J. Xu, A. Zemouche, F. Zhang. Resilient cooperative control of input constrained networked cyber-physical systems. Security and Resilience in Cyber-Physical Systems: Detection, Estimation and Control, Springer, 2022
+[B1] 付俊杰, 温广辉, Y.J. Xu, A. Zemouche, 张凡. Resilient cooperative control of input constrained networked cyber-physical systems. Security and Resilience in Cyber-Physical Systems: Detection, Estimation and Control, Springer, 2022
 
 ___
 __Conference Proceedings__
