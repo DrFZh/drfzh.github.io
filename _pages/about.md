@@ -73,7 +73,7 @@ __Journal Articles__
 
 [J14] 王晓玲, 苏厚胜*, 张凡, A. Zemouche, 陈关荣. Interval observer design and consensus of multi-agent systems with time-varying interval uncertainties. SIAM Journal on Control and Optimization, 59(5):3392-3417, 2021
 
-[J13] N. Wang, Y. Wang, J.H. Park*, 吕茂隆, 张凡*. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
+[J13] N. Wang, Y. Wang, J.H. Park*, 吕茂隆, 张凡. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
 
 [J12] P.F. Lu, 王和, 张凡, 虞文武*, 陈关荣. Formation control of nonholonomic mobile robots using distributed estimators. IEEE Transactions on Circuits and Systems II: Express Briefs, 67(12):3162-3166, 2020
 
