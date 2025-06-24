@@ -107,9 +107,9 @@ __Book Chapters__
 ___
 __Conference Proceedings__
 
-[C13] S.Y. Meng, F.W. Meng, 张凡, Q.H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, _to appear_, Denver, Colorado, USA, July 8-10, 2025
+[C13] S.Y. Meng, 孟范伟, 张凡, Q.H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, _to appear_, Denver, Colorado, USA, July 8-10, 2025
 
-[C12] S.Y. Meng, F.W. Meng, 张凡, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, pp.1350-1354, Toronto, Canada, July 8-12, 2024
+[C12] S.Y. Meng, 孟范伟, 张凡, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, pp.1350-1354, Toronto, Canada, July 8-12, 2024
 
 [C11] C. Liu, 张凡, X.Y. Liao, Z.Z. Zhang. Two distributed singleton formation avoidance strategies for noncooperative target fencing. Youth Academic Annual Conference of Chinese Association of Automation, pp.1255-1260, DaLin, China, June 7-9, 2024
 
@@ -125,11 +125,11 @@ __Conference Proceedings__
 
 [C5] 张凡, M. Mazo Jr., N. van de Wouw. Absolute stabilization of Lur'e systems under event-triggered feedback. IFAC World Congress open invited session, pp.15866-15871, Toulouse, France, July 9-14, 2017
 
-[C4] A.V. Proskurnikov, 张凡, M. Cao, J.M.A. Scherpen. A general criterion for synchronization of incrementally dissipative nonlinearly coupled agents. European Control Conference, pp.581-586, Linz, Austria, July 15-17, 2015
+[C4] A.V. Proskurnikov, 张凡, 曹明, J.M.A. Scherpen. A general criterion for synchronization of incrementally dissipative nonlinearly coupled agents. European Control Conference, pp.581-586, Linz, Austria, July 15-17, 2015
 
 [C3] 张凡, 夏卫国, H.L. Trentelman, K.H. Johansson, J.M.A. Scherpen. Robust synchronization of directed Lur'e networks with incremental nonlinearities. IEEE Multi-Conference on Systems and Control, pp.276-281, Antibes, France, October 8-10 2014
 
-[C2] 张凡, P. Ramazi, M. Cao. Distributed concurrent targeting for linear arrays of point sources. IFAC World Congress, pp.8323-8328, Cape Town, South Africa, August 24-29, 2014
+[C2] 张凡, P. Ramazi, 曹明. Distributed concurrent targeting for linear arrays of point sources. IFAC World Congress, pp.8323-8328, Cape Town, South Africa, August 24-29, 2014
 
 [C1] Y.H. Geng, W. Lu, 张凡. Robust sliding mode control for attitude control of small satellite. IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
 
