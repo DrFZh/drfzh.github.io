@@ -39,7 +39,7 @@ __Journal Articles__
 
 [J31] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 2nd round_, 2024
 
-[J30] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Flexible target-fencing control with distributed singleton formation avoidance. _under review_, 2024
+[J30] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Flexible target-fencing control with distributed singleton formation avoidance. _under review 2nd round_, 2024
 
 [J29] H.X. Hu, G.H. Wen*, Y. Chen, F. Zhang, T.W. Huang. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _under review_, 2024
 
