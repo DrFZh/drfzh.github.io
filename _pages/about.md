@@ -23,7 +23,7 @@ I received both the B.S. and the M.S. degrees from Harbin Institute of Technolog
 
 欢迎有 软硬件开发、控制工程、机器视觉 等相关基础的同学加入飞行器关键技术研发事业.
 
-ZZ: "门槛高的工科专业或方向就业好, 反之..."
+zz: "门槛高的工科专业或方向就业好, 反之..."
 
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
