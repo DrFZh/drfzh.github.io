@@ -131,7 +131,7 @@ __Conference Proceedings__
 
 [C2] 张凡, P. Ramazi, 曹明. Distributed concurrent targeting for linear arrays of point sources. IFAC World Congress, pp.8323-8328, Cape Town, South Africa, August 24-29, 2014
 
-[C1] Y.H. Geng, W. Lu, 张凡. Robust sliding mode control for attitude control of small satellite. IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
+[C1] 耿云海, W. Lu, 张凡. Robust sliding mode control for attitude control of small satellite. IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
 
 
 <span class='anchor' id='Projects'></span>
