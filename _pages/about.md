@@ -182,7 +182,7 @@ ___Current undergratutes___
 ___
 ___Former master students___
 
-2022.9 - 2025.6: Hao Xu (电机控制工程师, )
+2022.9 - 2025.6: Hao Xu (电机控制工程师, 重庆中微半导)
 
 2022.9 - 2025.6: JiaBo Liu (飞控工程师, 洪都航空)
 
