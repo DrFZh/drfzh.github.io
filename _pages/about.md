@@ -170,7 +170,7 @@ ___Current Ph.D. students___
 
 ___Current master students___
 
-2025.9 - PeiPei Jin,
+2025.9 - : PeiPei Jin,
 
 2024.9 - : Hao Chen, QinTao Lai, RuTao Zhong
 
