@@ -23,8 +23,6 @@ I received both the B.S. and the M.S. degrees from Harbin Institute of Technolog
 
 诚邀有 软硬件开发、控制工程、机器视觉 等相关基础的兄弟加入低空飞行器关键技术研发事业.
 
-zz: "门槛高的工科专业或方向就业好, 反之..."
-
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
 
@@ -161,6 +159,8 @@ __Conference Proceedings__
 
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
+
+zz: "门槛高的工科专业或方向就业好, 反之..."
 
 ___Current Ph.D. students___
 
