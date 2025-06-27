@@ -41,7 +41,7 @@ __Journal Articles__
 
 [J29] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Flexible target-fencing control with distributed singleton formation avoidance. Automatica, _under review 2nd round_, 2024
 
-[J28] 张凡, C.L. Jin*, 夏卫国, 孙希明, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, 197:1-8, March 2025
+[J28] 张凡, 金翠丽*, 夏卫国, 孙希明, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, 197:1-8, March 2025
 
 [J27] S.Y. Meng, 孟范伟*, 张凡, Q. Li, Y. Zhang, A. Zemouche. Observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications. Automatica _regular paper_, 162:1-12, April 2024
 
@@ -49,9 +49,9 @@ __Journal Articles__
 
 [J25] 张凡, 李元龙*, 夏卫国, 刘涛, 虞文武. Synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, 71(2):807-811, February 2024
 
-[J24] J.Z. Wu, 袁帅, 党庆庆, 张凡*, 虞文武. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, 360(12):9050-9064, August 2023
+[J24] 吴金泽, 袁帅, 党庆庆, 张凡*, 虞文武. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, 360(12):9050-9064, August 2023
 
-[J23] T.T. Zhang, 张世杰*, F.Z. Guo, X.T. Zhao, 张凡. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, 137:160-174, June 2023
+[J23] T.T. Zhang, 张世杰*, F.Z. Guo, 赵祥天, 张凡. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, 137:160-174, June 2023
 
 [J22] 王晓玲, 苏厚胜*, 张凡, 陈关荣. A robust distributed interval observer for LTI systems. IEEE Transactions on Automatic Control _full paper_, 68(3):1337-1352, March 2023
 
@@ -65,9 +65,9 @@ __Journal Articles__
 
 [J17] 张世杰*, T.T. Zhang, H.B. Guo, 张凡. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
 
-[J16] S. Li, 夏卫国*, 张凡. Synchronization of continuous-time linear systems with time-varying output couplings. IEEE Transactions on Industrial Informatics, 18(1):143-152, January 2022
+[J16] 李爽, 夏卫国*, 张凡. Synchronization of continuous-time linear systems with time-varying output couplings. IEEE Transactions on Industrial Informatics, 18(1):143-152, January 2022
 
-[J15] J.Z. Wu, W.H. Pu, 张凡*, 虞文武. Decentralized targeting control of collinear agents. Asian Journal of Control, 24:782–793, 2022
+[J15] 吴金泽, W.H. Pu, 张凡*, 虞文武. Decentralized targeting control of collinear agents. Asian Journal of Control, 24:782–793, 2022
 
 [J14] 王晓玲, 苏厚胜*, 张凡, A. Zemouche, 陈关荣. Interval observer design and consensus of multi-agent systems with time-varying interval uncertainties. SIAM Journal on Control and Optimization, 59(5):3392-3417, 2021
 
