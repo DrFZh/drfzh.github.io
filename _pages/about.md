@@ -162,6 +162,8 @@ __Conference Proceedings__
 
 zz: "门槛高的工科专业或方向就业/深造好, 反之..."
 
+so, 以混学位为目的的请忘记来过我的主页, 谢谢.
+
 ___Current Ph.D. students___
 
 2025.9 - : Cheng Liu, YunWei Guo
