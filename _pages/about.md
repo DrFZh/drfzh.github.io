@@ -160,9 +160,7 @@ __Conference Proceedings__
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 
-zz: "门槛高的工科专业或方向就业/深造好, 反之..."
-
-so, 以混学位为目的的请忘记来过我的主页, 谢谢.
+zz: "门槛高的工科专业或方向就业/深造好, 反之...". 以混学位为目的的请勿联系.
 
 ___Current Ph.D. students___
 
