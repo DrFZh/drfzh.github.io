@@ -133,9 +133,11 @@ __Conference Proceedings__
 <span class='anchor' id='Projects'></span>
 # 👨‍💻 Projects
 
-2020.12 - 2025.11, High-Precision Multi-DOF Control of Inertial Sensors
+2024.5 - 2025.10, 多X柔性编队围捕制导控制技术研究
 
-2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
+2020.12 - 2025.11, 惯性传感器多自由度控制方法研究
+
+2018.1 - 2020.12, 动态拓扑下鲁里叶网络的协调控制
 
 
 <span class='anchor' id='ProfessionalService'></span>
