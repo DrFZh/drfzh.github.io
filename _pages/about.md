@@ -49,7 +49,7 @@ __Journal Articles__
 
 [J24] 吴金泽, 袁帅, 党庆庆, 张凡*, 虞文武. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, 360(12):9050-9064, August 2023
 
-[J23] T.T. Zhang, 张世杰*, F.Z. Guo, 赵祥天, 张凡. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, 137:160-174, June 2023
+[J23] 张婷婷, 张世杰*, F.Z. Guo, 赵祥天, 张凡. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, 137:160-174, June 2023
 
 [J22] 王晓玲, 苏厚胜*, 张凡, 陈关荣. A robust distributed interval observer for LTI systems. IEEE Transactions on Automatic Control _full paper_, 68(3):1337-1352, March 2023
 
@@ -61,11 +61,11 @@ __Journal Articles__
 
 [J18] 张凡, 温广辉, A. Zemouche, 虞文武*, J.H. Park. Output feedback self-synchronization of directed Lur'e networks via global connectivity. IEEE Transactions on Cybernetics, 52(7):6490-6503, July 2022
 
-[J17] 张世杰*, T.T. Zhang, H.B. Guo, 张凡. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
+[J17] 张世杰*, 张婷婷, 郭海波, 张凡. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
 
 [J16] 李爽, 夏卫国*, 张凡. Synchronization of continuous-time linear systems with time-varying output couplings. IEEE Transactions on Industrial Informatics, 18(1):143-152, January 2022
 
-[J15] 吴金泽, W.H. Pu, 张凡*, 虞文武. Decentralized targeting control of collinear agents. Asian Journal of Control, 24:782–793, 2022
+[J15] 吴金泽, 蒲卫华, 张凡*, 虞文武. Decentralized targeting control of collinear agents. Asian Journal of Control, 24:782–793, 2022
 
 [J14] 王晓玲, 苏厚胜*, 张凡, A. Zemouche, 陈关荣. Interval observer design and consensus of multi-agent systems with time-varying interval uncertainties. SIAM Journal on Control and Optimization, 59(5):3392-3417, 2021
 
@@ -75,7 +75,7 @@ __Journal Articles__
 
 [J11] 温广辉*, 王佩君, 黄廷文, 吕金虎, 张凡. Distributed consensus of layered multi-agent systems subject to attacks on edges. IEEE Transactions on Circuits and Systems I: Regular Papers, 67(9):3152-3162, 2020
 
-[J10] F.Z. Guo, T.T. Zhang, 张凡, L. Gao, Z.P. Wang, 张世杰*. Event-triggered coordinated attitude control for satellite formation under switching topology. Advanced Control for Applications: Engineering and Industrial Systems, 2(2):e34, 2020.
+[J10] F.Z. Guo, 张婷婷, 张凡, L. Gao, Z.P. Wang, 张世杰*. Event-triggered coordinated attitude control for satellite formation under switching topology. Advanced Control for Applications: Engineering and Industrial Systems, 2(2):e34, 2020.
 
 [J9] A. Zemouche, 张凡, F. Mazenc, R. Rajamani*. High-gain nonlinear observer design with lower tuning parameter. IEEE Transactions on Automatic Control _full paper_, 64(8):3194-3209, 2019
 
@@ -107,7 +107,7 @@ __Conference Proceedings__
 
 [C12] S.Y. Meng, 孟范伟, 张凡, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, pp.1350-1354, Toronto, Canada, July 8-12, 2024
 
-[C11] C. Liu, 张凡, X.Y. Liao, Z.Z. Zhang. Two distributed singleton formation avoidance strategies for noncooperative target fencing. Youth Academic Annual Conference of Chinese Association of Automation, pp.1255-1260, DaLin, China, June 7-9, 2024
+[C11] C. Liu, 张凡, 廖雪阳, Z.Z. Zhang. Two distributed singleton formation avoidance strategies for noncooperative target fencing. Youth Academic Annual Conference of Chinese Association of Automation, pp.1255-1260, DaLin, China, June 7-9, 2024
 
 [C10] H. Arezki, 张凡, A. Zemouche. A HG/LMI-based observer for a tumor growth model. European Control Conference, pp.259-263, London, UK, July 12-15, 2022
 
@@ -170,7 +170,7 @@ ___Current Ph.D. students___
 
 ___Current master students___
 
-2025.9 - : PeiPei Jin, ...
+2025.9 - : PeiPei Jin, YuXin Zhang, ShaoFeng Xiong, ZengNing Lai, YiHe Zhi
 
 2024.9 - : Hao Chen, QinTao Lai, RuTao Zhong
 
