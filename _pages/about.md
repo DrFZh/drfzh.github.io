@@ -19,12 +19,12 @@ redirect_from:
 
 I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT and University of Groningen. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, and Delft University of Technology. I also visited the Institute of Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab, College of Engineering, Peking University, for weeks.
 
-欢迎 自动化、机器人、智能工程、应用数学 等相关专业的同学一起攻关 协同控制与决策、低空飞行器GNC 等技术.
+欢迎 自动化、机器人、智能工程、应用数学 等相关专业的同学一起攻关 协同控制与决策.
 
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
 
-My current research interests include Enhanced Observer Design, Nonsmooth Control, Learning Control, Distributed Estimation, Cooperative Target Fencing & Pointing control, and other relevant distributed coordination problems.
+My current research interests include Distributed Navigation, Cooperative Target Fencing & Pointing control, and other relevant distributed coordination problems.
 
 
 <span class='anchor' id='Publications'></span>
