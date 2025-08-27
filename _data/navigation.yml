@@ -14,8 +14,10 @@ main:
   - title: "ProfessionalService"
     url: "/#ProfessionalService"
 
+<!--
   - title: "Courses"
     url: "/#Courses"
+-->
 
   - title: "GroupMembers"
     url: "/#GroupMembers"
