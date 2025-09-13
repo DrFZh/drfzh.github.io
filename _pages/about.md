@@ -164,6 +164,8 @@ __Conference Proceedings__
 
 以混学位为目的的请勿联系!
 
+有意向的同学请先行自学现代控制理论、滑模控制、自适应控制、强化学习.
+
 ___Current Ph.D. students___
 
 2025.9 - : Cheng Liu, YunWei Guo
