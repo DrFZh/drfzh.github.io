@@ -33,9 +33,9 @@ __Journal Articles__
 
 [J32] H.F. Wang, 温广辉, 都海波, 范正平, 张凡. Robust feedback-cascaded high-gain observers for uncertain nonlinear systems. _under review_, 2025
 
-[J31] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. _under review_, 2024
+[J31] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. _under review 2nd round_, 2024
 
-[J30] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 2nd round_, 2024
+[J30] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 3rd round_, 2024
 
 [J29] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Flexible target-fencing control with distributed singleton formation avoidance. Automatica, _under review 2nd round_, 2024
 
@@ -164,7 +164,7 @@ __Conference Proceedings__
 
 以混学位为目的的请勿联系!
 
-有意向的同学请先行自学现代控制理论、滑模控制、自适应控制、强化学习.
+有意向的同学请先自学 现代控制理论(刘豹第3版)、滑模控制(Yuri Shtessel et al.)、自适应控制(Eugene Lavretsky第2版).
 
 ___Current Ph.D. students___
 
