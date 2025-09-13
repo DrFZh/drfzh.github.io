@@ -168,7 +168,7 @@ ___Current Ph.D. students___
 
 2025.9 - : Cheng Liu, YunWei Guo
 
-2024.9 - : ZhiMing Yang, DanYu Li
+2024.9 - : ZhiMing Yang
 
 ___Current master students___
 
