@@ -217,3 +217,7 @@ ___Former undergraduates___
 ieeecss.org/conferences/all
 
 www.ifac-control.org/conferences
+
+singtown.com/cn
+
+www.latexstudio.net
