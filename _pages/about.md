@@ -39,7 +39,7 @@ __Journal Articles__
 
 [J32] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Flexible target-fencing control with distributed singleton formation avoidance. International Journal of Robust and Noninear Control, _under review 2nd round_, 2024
 
-### [J31] 胡鸿翔, 温广辉, 陈云, 张凡, 黄廷文. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _to appear_, 2025
+<!-- [J31] 胡鸿翔, 温广辉, 陈云, 张凡, 黄廷文. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _to appear_, 2025 -->
 
 [J30] T. Wu, 张凡, 刘小旭, 崔磊, 谢进进. Synchronization of linear multi-agent systems: A dynamic observer approach. Asian Journal of Control, _to appear_, 2025
 
