@@ -19,7 +19,7 @@ redirect_from:
 
 I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT and University of Groningen. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, and Delft University of Technology. I also visited the Institute of Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab, College of Engineering, Peking University, for weeks.
 
-诚邀 自动化、应用数学 等相关专业的同学一起攻关 协同智能感知与控制 方向的前沿技术.
+诚邀 自动化、应用数学 等相关专业的同学一起攻关 空中机器人协同智能感知与控制 方向的前沿技术.
 
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
@@ -31,11 +31,15 @@ My current research interests include Cooperative Target Estimation, Self-Orgina
 # 📝 Publications
 __Journal Articles__
 
-[J34] H.F. Wang, 温广辉, 都海波, 范正平, 张凡. Robust feedback-cascaded high-gain observers for uncertain nonlinear systems. _under review_, 2025
+[J35] H.F. Wang, 温广辉, 都海波, 范正平, 张凡. Robust feedback-cascaded high-gain observers for uncertain nonlinear systems. _under review_, 2025
+
+[J34] Y.A. Ke, C. Liu, 何金刚, 张凡. Self-organizing fencing formation control of quadrotor swarms under actuator saturation. Aerospace Science and Technology, _under review 2nd round_, 2025
 
 [J33] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 2nd round_, 2024
 
-[J32] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Flexible target-fencing control with distributed singleton formation avoidance. Automatica, _under review 2nd round_, 2024
+[J32] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Flexible target-fencing control with distributed singleton formation avoidance. International Journal of Robust and Noninear Control, _under review 2nd round_, 2024
+
+### [J31] 胡鸿翔, 温广辉, 陈云, 张凡, 黄廷文. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _to appear_, 2025
 
 [J30] T. Wu, 张凡, 刘小旭, 崔磊, 谢进进. Synchronization of linear multi-agent systems: A dynamic observer approach. Asian Journal of Control, _to appear_, 2025
 
