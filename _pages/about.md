@@ -180,7 +180,7 @@ __Conference Proceedings__
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 
-感兴趣的同学请先自学 现代控制理论(刘豹第3版) and 滑模控制(Yuri Shtessel et al.) or 自适应控制(Eugene Lavretsky第2版) or 强化学习(Richard S. Sutton第2版).
+感兴趣的同学请先自学《现代控制理论》(刘豹第3版)
 
 ___Current Ph.D. students___
 
