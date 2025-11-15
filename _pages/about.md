@@ -31,7 +31,9 @@ My current research interests include Cooperative Target Estimation, Self-Orgina
 # 📝 Publications
 __Journal Articles__
 
-[J35] H.F. Wang, 温广辉, 都海波, 范正平, 张凡. Robust feedback-cascaded high-gain observers for uncertain nonlinear systems. _under review_, 2025
+[J37] H.F. Wang, 温广辉, 都海波, 范正平, 张凡. Robust feedback-cascaded high-gain observers for uncertain nonlinear systems. _under review_, 2025
+
+[J36] Y.C. Li, 张凡, 夏卫国, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_, 2025
 
 [J34] Y.A. Ke, C. Liu, 何金刚, 张凡. Self-organizing fencing formation control of quadrotor swarms under actuator saturation. Aerospace Science and Technology, _under review 2nd round_, 2025
 
