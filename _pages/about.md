@@ -182,8 +182,6 @@ __Conference Proceedings__
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 
-感兴趣的同学请先自学《现代控制理论》(刘豹第3版)
-
 ___Current Ph.D. students___
 
 2025.9 - : Cheng Liu, YunWei Guo
