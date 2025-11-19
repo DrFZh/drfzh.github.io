@@ -31,6 +31,8 @@ My current research interests include Cooperative Target Estimation, Self-Orgina
 # 📝 Publications
 __Journal Articles__
 
+[J38] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. _under review_, 2025
+
 [J37] H.F. Wang, 温广辉, 都海波, 范正平, 张凡. Robust feedback-cascaded high-gain observers for uncertain nonlinear systems. _under review_, 2025
 
 [J36] Y.C. Li, 张凡, 夏卫国, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_, 2025
@@ -41,7 +43,7 @@ __Journal Articles__
 
 [J32] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Flexible target-fencing control with distributed singleton formation avoidance. International Journal of Robust and Noninear Control, _under review 2nd round_, 2024
 
-<!-- [J31] 胡鸿翔, 温广辉, 陈云, 张凡, 黄廷文. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _to appear_, 2025 -->
+[J31] 胡鸿翔, 温广辉, 陈云, 张凡, 黄廷文. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _to appear_, 2025
 
 [J30] T. Wu, 张凡, 刘小旭, 崔磊, 谢进进. Synchronization of linear multi-agent systems: A dynamic observer approach. Asian Journal of Control, _to appear_, 2025
 
