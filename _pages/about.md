@@ -47,7 +47,7 @@ __Journal Articles__
 
 [J30] T. Wu, 张凡, 刘小旭, 崔磊, 谢进进. Synchronization of linear multi-agent systems: A dynamic observer approach. Asian Journal of Control, _to appear_, 2025
 
-[J29] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _online_, 2025
+[J29] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. IEEE Transactions on Systems,Man,and Cybernetics:Systems, 55(12):9669-9680, December 2025
 
 [J28] 张凡, 金翠丽, 夏卫国, 孙希明, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, 197:1-8, March 2025
 
