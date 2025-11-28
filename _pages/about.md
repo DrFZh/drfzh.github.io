@@ -37,7 +37,7 @@ __Journal Articles__
 
 [J36] Y.C. Li, 张凡, 夏卫国, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_, 2025
 
-[J34] Y.A. Ke, C. Liu, 何金刚, 张凡. Self-organizing fencing formation control of quadrotor swarms under actuator saturation. Aerospace Science and Technology, _under review 2nd round_, 2025
+[J34] Y.A. Ke, C. Liu, 何金刚, 张凡. Self-organizing fencing formation control of quadrotor swarms under actuator saturation. Aerospace Science and Technology, _to appear_, 2025
 
 [J33] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 2nd round_, 2024
 
@@ -237,6 +237,8 @@ ___Former undergraduates___
 ieeecss.org/conferences/all
 
 www.ifac-control.org/conferences
+
+https://yalmip.github.io
 
 px4.io
 
