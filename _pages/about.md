@@ -238,7 +238,7 @@ ieeecss.org/conferences/all
 
 www.ifac-control.org/conferences
 
-https://yalmip.github.io
+yalmip.github.io
 
 px4.io
 
