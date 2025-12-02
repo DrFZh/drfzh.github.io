@@ -186,13 +186,13 @@ __Conference Proceedings__
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 
-___Current Ph.D. students___
+__Current Ph.D. students__
 
 2025.9 - : Cheng Liu, YunWei Guo
 
 2024.9 - : ZhiMing Yang
 
-___Current master students___
+__Current master students__
 
 2025.9 - : PeiPei Jin, YuXin Zhang, ShaoFeng Xiong, ZengNing Lai, YiHe Zhi
 
@@ -200,11 +200,11 @@ ___Current master students___
 
 2023.9 - : YuAng Ke, YaChuan Li
 
-___Current undergraduate students__
+__Current undergraduate students__
 
 2025.11 - : HanYe Lu, WenShuai Xiang
 
-___Current Postdocs___
+__Current Postdocs__
 
 2023.9 - : HongFu Wang
 
