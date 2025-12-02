@@ -226,7 +226,7 @@ __Former master students__
 
 2019.9 - 2022.6: JinZe Wu (博士生, 南科大&意大利都灵理工)
 
-__Former undergraduates__
+__Former undergraduate students__
 
 2024.9 - 2025.5: PeiPei Jin (硕士生, SYSU), NiCan Liu (硕士生, HKUST)
 
