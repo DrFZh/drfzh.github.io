@@ -210,7 +210,7 @@ __Current Postdocs__
 
 
 ___
-___Former master students___
+__Former master students__
 
 2022.9 - 2025.6: Chen Liu (博士生, SYSU)
 
@@ -226,7 +226,7 @@ ___Former master students___
 
 2019.9 - 2022.6: JinZe Wu (博士生, 南科大&意大利都灵理工)
 
-___Former undergraduates___
+__Former undergraduates__
 
 2024.9 - 2025.5: PeiPei Jin (硕士生, SYSU), NiCan Liu (硕士生, HKUST)
 
