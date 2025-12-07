@@ -41,7 +41,7 @@ __Journal Articles__
 
 [J33] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Singleton-free fencing control of unknown maneuver target. International Journal of Robust and Noninear Control, _under review 2nd round_, 2024
 
-[J32] Y.A. Ke, C. Liu, 何金刚, 张凡. Self-organizing fencing formation control of quadrotor swarms under actuator saturation. Aerospace Science and Technology, _to appear_, 2025
+[J32] Y.A. Ke, C. Liu, 何金刚, 张凡. Self-organizing fencing formation control of quadrotor swarms under actuator saturation. Aerospace Science and Technology, _online_, 2025
 
 [J31] 胡鸿翔, 温广辉, 陈云, 张凡, 黄廷文. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _to appear_, 2025
 
@@ -224,7 +224,7 @@ __Former master students__
 
 2020.9 - 2022.6: Xin Deng (产品经理, 杭州菜鸟网络)
 
-2019.9 - 2022.6: JinZe Wu (博士生, 南科大&意大利都灵理工)
+2019.9 - 2022.6: JinZe Wu (博士生, 南科大&意大利都灵理工, 导师: 林志赟 教授)
 
 __Former undergraduate students__
 
