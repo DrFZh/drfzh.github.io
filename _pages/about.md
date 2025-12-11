@@ -243,9 +243,3 @@ ieeecss.org/conferences/all
 www.ifac-control.org/conferences
 
 yalmip.github.io
-
-px4.io
-
-singtown.com/cn
-
-www.latexstudio.net
