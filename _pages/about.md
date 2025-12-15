@@ -31,7 +31,7 @@ My current research interests include Cooperative Target Estimation, Self-Orgina
 # 📝 Publications
 __Journal Articles__
 
-[J37] H.F. Wang, 范正平, Z.M. Yang, M. Tang, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. _submitted_, 2025
+[J37] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. 2025
 
 [J36] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. _under review_, 2025
 
