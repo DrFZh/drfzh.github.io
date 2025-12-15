@@ -208,6 +208,8 @@ __Current Postdocs__
 
 2023.9 - : HongFu Wang
 
+接收合作博士后, 从事分布式控制方向优先, 博士期间须有合格的科研训练和成果.
+
 
 ___
 __Former master students__
