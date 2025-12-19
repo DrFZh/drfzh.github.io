@@ -170,7 +170,8 @@ __Conference Proceedings__
   
 - Conference Editorial Board: IEEE Control Systems Society
 
-- Program Committee Member: ACC, Philadelphia, PA, USA, July 6-9, 2027; 20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
+- Program Committee Member: ACC, Philadelphia, PA, USA, July 6-9, 2027;
+  20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
 
 <!-- - Reviewer: IEEE Transactions on Automatic Control, Automatica, IEEE Transactions on Control of Network Systems, Journal of Robust and Nonlinear Control, Systems & Control Letters, International Journal of Control, European Journal of Control, Nonlinear Analysis: Hybrid Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Systems, Man and Cybernetics: Systems, Journal of The Franklin Institute, Asian Journal of Control, IEEE Control Systems Letters, Optimal Control Applications and Methods, International Journal of Adaptive Control and Signal Processing, IEEE Systems Journal -->
 
@@ -204,13 +205,13 @@ __Current undergraduate students__
 
 2025.11 - : HanYe Lu, WenShuai Xiang
 
-招收踏实的本科生围绕飞行器设计、导航与控制开展大创、科创、本科毕设等
+招收踏实的本科生围绕低空飞行器设计、导航与控制开展大创、科创、本科毕设等.
 
 __Current Postdocs__
 
 2023.9 - : HongFu Wang
 
-接收合作博士后, 从事协同控制、机器人导航与控制方向优先, 博士期间须有合格的科研训练
+接收合作博士后, 从事协同控制、机器人导航与控制方向优先, 博士期间须有合格的科研训练.
 
 
 ___
