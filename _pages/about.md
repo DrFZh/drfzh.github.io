@@ -205,7 +205,7 @@ __Current undergraduate students__
 
 2025.11 - : HanYe Lu, WenShuai Xiang
 
-招收踏实的本科生围绕低空飞行器设计、导航与控制开展大创、科创、本科毕设等.
+招收踏实的本科生围绕低空飞行器导航与控制开展大创、科创、本科毕设等.
 
 __Current Postdocs__
 
