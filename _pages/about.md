@@ -37,7 +37,7 @@ __Journal Articles__
 
 [J35] Y.C. Li, 张凡, 夏卫国, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_, 2025
 
-[J34] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 2nd round_, 2024
+[J34] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 3rd round_, 2024
 
 [J33] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Singleton-free fencing control of unknown maneuver target. International Journal of Robust and Noninear Control, _to appear_, 2025
 
