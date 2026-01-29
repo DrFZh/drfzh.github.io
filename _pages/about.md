@@ -31,7 +31,7 @@ My current research interests include Cooperative Target Estimation, Self-Orgina
 # 📝 Publications
 __Journal Articles__
 
-[J37] H.F. Wang, 范正平, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. 2025
+[J37] H.F. Wang, 范正平, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. _under review_, 2025
 
 [J36] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. _under review_, 2025
 
@@ -39,7 +39,7 @@ __Journal Articles__
 
 [J34] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 3rd round_, 2024
 
-[J33] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Singleton-free fencing control of unknown maneuver target. International Journal of Robust and Noninear Control, _to appear_, 2025
+[J33] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Singleton-free fencing control of unknown maneuver target. International Journal of Robust and Noninear Control, _online_, 2025
 
 [J32] 胡鸿翔, 温广辉, 陈云, 张凡, 黄廷文. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _to appear_, 2025
 
@@ -186,6 +186,8 @@ __Conference Proceedings__
 
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
+
+★ 以混学历为目的的同学请勿联系！
 
 __Current Ph.D. students__
 
