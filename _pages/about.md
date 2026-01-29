@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT and University of Groningen. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, and Delft University of Technology. I also visited the Institute of Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab, College of Engineering, Peking University, for weeks.
+I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT and University of Groningen. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, and Delft University of Technology. I also visited the Institute of Systems Science (hosted by Prof. HONG Yi-Guang), Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab (hosted by Prof. XIE Guang-Ming), College of Engineering, Peking University, for weeks.
 
 诚邀 自动化、应用数学 等相关专业的同学一起攻关 空中机器人智能协同感知、规划、控制 方向的前沿技术.
 
