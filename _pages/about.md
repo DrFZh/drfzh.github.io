@@ -187,7 +187,7 @@ __Conference Proceedings__
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 
-★ 以混学历为目的的同学请勿联系！
+★ 以混学位为目的的同学请勿联系！★
 
 __Current Ph.D. students__
 
@@ -213,7 +213,7 @@ __Current Postdocs__
 
 2023.9 - : HongFu Wang
 
-接收合作博士后, 从事协同控制、机器人导航与控制方向优先, 博士期间须有合格的科研训练.
+接收合作博士后, 从事协同感知与控制、机器人导航与控制方向优先, 博士期间须有合格的科研训练.
 
 
 ___
