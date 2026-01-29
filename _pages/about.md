@@ -19,7 +19,7 @@ redirect_from:
 
 I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT and University of Groningen. Before joining SYSU, I worked successively in City University of Hong Kong (advised by Prof. FENG Gang), Southeast University (advised by Prof. YU Wen-Wu), and Delft University of Technology. I also visited the Institute of Systems Science (hosted by Prof. HONG Yi-Guang), Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab (hosted by Prof. XIE Guang-Ming), College of Engineering, Peking University, for weeks.
 
-诚邀 自动化、应用数学 等相关专业的同学一起攻关 空中机器人智能协同感知、规划、控制 方向的前沿技术.
+🔥 诚邀 自动化、应用数学 等相关专业的同学一起攻关 机器人协同智能感知、规划、控制 方向的前沿技术.
 
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
@@ -31,7 +31,7 @@ My current research interests include Cooperative Target Estimation, Self-Orgina
 # 📝 Publications
 __Journal Articles__
 
-[J37] H.F. Wang, 范正平, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. _under review_, 2025
+[J37] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. _under review_, 2025
 
 [J36] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. _under review_, 2025
 
@@ -115,7 +115,7 @@ __Conference Proceedings__
 
 [C14] C. Liu, Z.N Lai, 何金刚, Z.Z. Zhang, 张凡. Fencing control of a maneuvering target by heterogeneous Euler-Lagrange swarms. 9th Chinese Conference on Swarm Intelligence and Cooperative Control, _to appear_, Shanghai, China, October 31-November 3, 2025
 
-[C13] S.Y. Meng, 孟范伟, 张凡, Q.H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, _to appear_, Denver, Colorado, USA, July 8-10, 2025
+[C13] S.Y. Meng, 孟范伟, 张凡, Q.H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, pp. 626-631, Denver, Colorado, USA, July 8-10, 2025
 
 [C12] S.Y. Meng, 孟范伟, 张凡, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, pp.1350-1354, Toronto, Canada, July 8-12, 2024
 
@@ -205,16 +205,15 @@ __Current master students__
 
 __Current undergraduate students__
 
-2025.11 - : HanYe Lu, WenShuai Xiang
+☆ 招收踏实的本科生围绕低空飞行器导航与控制开展大创、科创、本科毕设等 ☆
 
-招收踏实的本科生围绕低空飞行器导航与控制开展大创、科创、本科毕设等.
+2025.11 - : HanYe Lu, WenShuai Xiang
 
 __Current Postdocs__
 
+☁ 接收合作博士后, 从事协同感知与控制、机器人导航与控制方向优先, 博士期间须有合格的科研训练 ☁
+
 2023.9 - : HongFu Wang
-
-接收合作博士后, 从事协同感知与控制、机器人导航与控制方向优先, 博士期间须有合格的科研训练.
-
 
 ___
 __Former master students__
