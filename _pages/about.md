@@ -73,7 +73,7 @@ __Journal Articles__
 
 [J19] R.W. Zuo, Y.H. Li, 吕茂隆, Z.C. Liu, 张凡. Fuzzy adaptive output-feedback constrained trajectory tracking control for HFVs with fixed-time convergence. IEEE Transactions on Fuzzy Systems, 30(11): 4828-4840, September 2022
 
-[J18] 张凡, 温广辉, A. Zemouche, 虞文武, J.H. Park. Output feedback self-synchronization of directed Lur'e networks via global connectivity. IEEE Transactions on Cybernetics, 52(7):6490-6503, July 2022
+[J18] 张凡, 温广辉, A. Zemouche, 虞文武, J. H. Park. Output feedback self-synchronization of directed Lur'e networks via global connectivity. IEEE Transactions on Cybernetics, 52(7):6490-6503, July 2022
 
 [J17] 张世杰, 张婷婷, 郭海波, 张凡. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
 
@@ -83,7 +83,7 @@ __Journal Articles__
 
 [J14] 王晓玲, 苏厚胜, 张凡, A. Zemouche, 陈关荣. Interval observer design and consensus of multi-agent systems with time-varying interval uncertainties. SIAM Journal on Control and Optimization, 59(5):3392-3417, 2021
 
-[J13] N. Wang, Y. Wang, J.H. Park, 吕茂隆, 张凡. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
+[J13] N. Wang, Y. Wang, J. H. Park, 吕茂隆, 张凡. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
 
 [J12] P.F. Lu, 王和, 张凡, 虞文武, 陈关荣. Formation control of nonholonomic mobile robots using distributed estimators. IEEE Transactions on Circuits and Systems II: Express Briefs, 67(12):3162-3166, 2020
 
@@ -93,19 +93,19 @@ __Journal Articles__
 
 [J9] A. Zemouche, 张凡, F. Mazenc, R. Rajamani. High-gain nonlinear observer design with lower tuning parameter. IEEE Transactions on Automatic Control _full paper_, 64(8):3194-3209, 2019
 
-[J8] 成晓东, J.M.A. Scherpen, 张凡. Model reduction of synchronized Lur'e networks with incrementally sector-bounded nonlinearities. European Journal of Control, 50:11-19, November 2019
+[J8] 成晓东, J. M.A. Scherpen, 张凡. Model reduction of synchronized Lur'e networks with incrementally sector-bounded nonlinearities. European Journal of Control, 50:11-19, November 2019
 
-[J7] S. Baldi, 张凡, T.L. Quang, P. Endel, O. Holu. Passive versus active learning in operation and adaptive maintenance of heating, ventilation, and air conditioning. Applied Energy, 252:113478, October 2019
+[J7] S. Baldi, 张凡, T. L. Quang, P. Endel, O. Holu. Passive versus active learning in operation and adaptive maintenance of heating, ventilation, and air conditioning. Applied Energy, 252:113478, October 2019
 
 [J6] 袁帅, 张凡, S. Baldi. Adaptive tracking of switched nonlinear systems with prescribed performance using a reference-dependent reparametrization approach. International Journal of Control, 92(6): 1243-1251, 2019
 
-[J5] 张凡, H.L. Trentelman, 冯刚, J.M.A. Scherpen. Absolute stabilization of Lur'e systems via dynamic output feedback. European Journal of Control, 44:15-26, November 2018
+[J5] 张凡, H. L. Trentelman, 冯刚, J. M.A. Scherpen. Absolute stabilization of Lur'e systems via dynamic output feedback. European Journal of Control, 44:15-26, November 2018
 
-[J4] 张凡, H.L. Trentelman, J.M.A. Scherpen. Robust cooperative output regulation of heterogeneous Lur'e networks. International Journal of Robust and Nonlinear Control, 27(16):3061-3078, 2017
+[J4] 张凡, H. L. Trentelman, J. M.A. Scherpen. Robust cooperative output regulation of heterogeneous Lur'e networks. International Journal of Robust and Nonlinear Control, 27(16):3061-3078, 2017
 
-[J3] 张凡, H.L. Trentalman, J.M.A. Scherpen. Dynamic feedback synchronization of Lur'e networks via incremental sector boundedness. IEEE Transactions on Automatic Control, 61(9):2579-2584, September 2016
+[J3] 张凡, H. L. Trentalman, J. M.A. Scherpen. Dynamic feedback synchronization of Lur'e networks via incremental sector boundedness. IEEE Transactions on Automatic Control, 61(9):2579-2584, September 2016
 
-[J2] 张凡, H.L. Trentelman, J.M.A. Scherpen. Fully distributed robust synchronization of networked Lur'e systems with incremental nonlinearities. Automatica _regular paper_, 50(10):2515-2526, October 2014
+[J2] 张凡, H. L. Trentelman, J. M.A. Scherpen. Fully distributed robust synchronization of networked Lur'e systems with incremental nonlinearities. Automatica _regular paper_, 50(10):2515-2526, October 2014
 
 [J1] 张世杰, 曹喜滨, 张凡, 贺亮. Monocular vision-based iterative pose estimation algorithm from corresponding feature points. Science China Information Sciences, 53(8):1682-1696, August 2010
 
@@ -119,7 +119,7 @@ __Conference Proceedings__
 
 [C14] C. Liu, Z.N Lai, 何金刚, Z.Z. Zhang, 张凡. Fencing control of a maneuvering target by heterogeneous Euler-Lagrange swarms. 9th Chinese Conference on Swarm Intelligence and Cooperative Control, _to appear_, Shanghai, China, October 31-November 3, 2025
 
-[C13] S.Y. Meng, 孟范伟, 张凡, Q.H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, pp. 626-631, Denver, Colorado, USA, July 8-10, 2025
+[C13] S.Y. Meng, 孟范伟, 张凡, Q. H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, pp. 626-631, Denver, Colorado, USA, July 8-10, 2025
 
 [C12] S.Y. Meng, 孟范伟, 张凡, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, pp.1350-1354, Toronto, Canada, July 8-12, 2024
 
@@ -137,9 +137,9 @@ __Conference Proceedings__
 
 [C5] 张凡, M. Mazo Jr., N. van de Wouw. Absolute stabilization of Lur'e systems under event-triggered feedback. IFAC World Congress open invited session, pp.15866-15871, Toulouse, France, July 9-14, 2017
 
-[C4] A.V. Proskurnikov, 张凡, 曹明, J.M.A. Scherpen. A general criterion for synchronization of incrementally dissipative nonlinearly coupled agents. European Control Conference, pp.581-586, Linz, Austria, July 15-17, 2015
+[C4] A. V. Proskurnikov, 张凡, 曹明, J.M.A. Scherpen. A general criterion for synchronization of incrementally dissipative nonlinearly coupled agents. European Control Conference, pp.581-586, Linz, Austria, July 15-17, 2015
 
-[C3] 张凡, 夏卫国, H.L. Trentelman, K.H. Johansson, J.M.A. Scherpen. Robust synchronization of directed Lur'e networks with incremental nonlinearities. IEEE Multi-Conference on Systems and Control, pp.276-281, Antibes, France, October 8-10 2014
+[C3] 张凡, 夏卫国, H. L. Trentelman, K. H. Johansson, J. M.A. Scherpen. Robust synchronization of directed Lur'e networks with incremental nonlinearities. IEEE Multi-Conference on Systems and Control, pp.276-281, Antibes, France, October 8-10 2014
 
 [C2] 张凡, P. Ramazi, 曹明. Distributed concurrent targeting for linear arrays of point sources. IFAC World Congress, pp.8323-8328, Cape Town, South Africa, August 24-29, 2014
 
