@@ -211,13 +211,13 @@ __Current master students__
 
 __Current undergraduate students__
 
-☆ 招收踏实的本科生围绕低空飞行器导航与控制开展大创、科创、本科毕设等 ☆
+☆ 招收有工科气质的本科生围绕低空飞行器导航与控制开展大创、科创、本科毕设等 ☆
 
 2025.11 - : HanYe Lu, WenShuai Xiang
 
 __Current Postdocs__
 
-☁ 接收合作博士后, 博士期间须有合格的科研训练 ☁
+☁ 博士期间须有合格的科研训练 ☁
 
 2023.9 - : HongFu Wang
 
