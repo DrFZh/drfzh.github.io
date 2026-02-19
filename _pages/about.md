@@ -253,5 +253,3 @@ __Former undergraduate students__
 ieeecss.org/conferences/all
 
 www.ifac-control.org/conferences
-
-yalmip.github.io
