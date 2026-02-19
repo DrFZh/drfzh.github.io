@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT and University of Groningen. Before joining SYSU, I worked successively in City University of Hong Kong (advised by Prof. FENG Gang), Southeast University (advised by Prof. YU Wen-Wu), and Delft University of Technology. I also visited the Institute of Systems Science (hosted by Prof. HONG Yi-Guang), Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab (hosted by Prof. XIE Guang-Ming), College of Engineering, Peking University, for weeks.
+I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT and University of Groningen. Before joining SYSU, I worked successively in City University of Hong Kong (advised by Prof. FENG Gang), Southeast University (advised by Prof. YU WenWu), and Delft University of Technology. I also visited the Institute of Systems Science (hosted by Prof. HONG YiGuang), Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab (hosted by Prof. XIE GuangMing), College of Engineering, Peking University, for weeks.
 
 🔥 诚邀 自动化、应用数学 等相关专业的同学一起攻关 机器人协同智能感知、规划、控制 方向的前沿技术.
 
@@ -191,7 +191,7 @@ __Conference Proceedings__
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 
-★ 以混学位为目的的同学请勿联系！★
+★ 以混学位为目的的同学请勿联系 ★
 
 __Current Ph.D. students__
 
