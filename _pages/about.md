@@ -201,6 +201,8 @@ __Current Ph.D. students__
 
 __Current master students__
 
+★ 优先考虑有继续深造计划或对工程实践有强烈兴趣和执行力的同学 ★
+
 2025.9 - : PeiPei Jin, YuXin Zhang, ShaoFeng Xiong, ZengNing Lai, YiHe Zhi
 
 2024.9 - : Hao Chen, QinTao Lai, RuTao Zhong
