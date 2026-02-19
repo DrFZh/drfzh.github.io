@@ -217,7 +217,7 @@ __Current undergraduate students__
 
 __Current Postdocs__
 
-☁ 接收合作博士后, 从事协同估计与控制、无人机导航与控制方向优先, 博士期间须有合格的科研训练 ☁
+☁ 接收合作博士后, 博士期间须有合格的科研训练 ☁
 
 2023.9 - : HongFu Wang
 
