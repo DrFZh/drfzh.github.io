@@ -19,7 +19,7 @@ redirect_from:
 
 I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT and University of Groningen. Before joining SYSU, I worked successively in City University of Hong Kong (advised by Prof. FENG Gang), Southeast University (advised by Prof. YU WenWu), and Delft University of Technology. I also visited the Institute of Systems Science (hosted by Prof. HONG YiGuang), Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab (hosted by Prof. XIE GuangMing), College of Engineering, Peking University, for weeks.
 
-🔥 诚邀 自动化、应用数学、智能工程 等相关专业的同学一起攻关 机器人协同智能感知、规划、控制 方向的前沿技术.
+🔥 诚邀 自动化、应用数学、智能工程 等相关专业的同学一起攻关 无人集群协同智能感知、规划、控制 方向的前沿技术.
 
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
@@ -232,7 +232,7 @@ __Former master students__
 
 2022.9 - 2025.6: JiaBo Liu (飞控工程师, 南昌洪都航空)
 
-2021.9 - 2024.6: HongJie Fang (控制工程师, 深圳固胜智能)
+2021.9 - 2024.6: HongJie Fang (运动控制工程师, 深圳固胜智能)
 
 2021.9 - 2024.6: ZhiMing Yang (博士生, SYSU)
 
