@@ -32,17 +32,17 @@ My current research interests include Cooperative Target Estimation, Self-Orgina
 # 📝 Publications
 __Journal Articles__
 
-[J39] C. Liu, L.W. Hao, 叶东, 张凡, 范才智. Fully distributed fencing control of an unknown maneuver target by multi-agent systems under external disturbances. _submitted_, 2026
+[J] C. Liu, L.W. Hao, 叶东, 张凡, 范才智. Fully distributed fencing control of an unknown maneuver target by multi-agent systems under external disturbances. _submitted_, 2026
 
-[J38] R.T. Zhong, Z.M. Yang, J.L. Chen, 张雨浓, 李帅, 张凡. Predefined-time bearing-only mobile localization: An integral reciprocal zeroing neural network solution. _submitted_, 2026 
+[J] R.T. Zhong, Z.M. Yang, J.L. Chen, 张雨浓, 李帅, 张凡. Predefined-time bearing-only mobile localization: An integral reciprocal zeroing neural network solution. _submitted_, 2026 
 
-[J37] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. _under review_, 2025
+[J] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. _under review_, 2025
 
-[J36] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. _under review 2n round_, 2025
+[J] Y.C. Li, 夏卫国, 张凡, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_, 2025
 
-[J35] Y.C. Li, 夏卫国, 张凡, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_, 2025
+[J] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 3rd round_, 2024
 
-[J34] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 3rd round_, 2024
+[J34] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. _accepted_, 2026
 
 [J33] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Singleton-free fencing control of unknown maneuver target. International Journal of Robust and Noninear Control, _to appear_, 2025
 
