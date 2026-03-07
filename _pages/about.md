@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🔥 诚邀 自动化、应用数学、智能工程 等相关专业的同学一起攻关 跨域集群协同智能感知、规划、控制 方向的前沿技术.
+🔥 诚邀 自动化、应用数学、智能工程 等相关专业的同学一起攻关 集群协同智能感知、规划、控制 方向的前沿技术.
 
 I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT and University of Groningen. Before joining SYSU, I worked successively in City University of Hong Kong (advised by Prof. FENG Gang), Southeast University (advised by Prof. YU WenWu), and Delft University of Technology. I also visited the Institute of Systems Science (hosted by Prof. HONG YiGuang), Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab (hosted by Prof. XIE GuangMing), College of Engineering, Peking University, for weeks.
 
@@ -25,7 +25,7 @@ I received both the B.S. and the M.S. degrees from Harbin Institute of Technolog
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
 
-My current research interests include Cooperative Target Estimation, Self-Orginazing Fencing Control, and Cross-Domain Robots.
+My current research interests include Cooperative Target Estimation and Self-Orginazing Fencing Control.
 
 
 <span class='anchor' id='Publications'></span>
@@ -214,7 +214,7 @@ __Current master students__
 
 __Current undergraduate students__
 
-☆ 招收有工科气质的本科生围绕跨域飞行器智能规划与控制开展大创、科创、本科毕设等 ☆
+☆ 招收有工科气质的本科生围绕低空飞行器智能规划与控制开展大创、科创、本科毕设等 ☆
 
 2025.11 - : HanYe Lu, WenShuai Xiang
 
