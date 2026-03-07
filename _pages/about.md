@@ -214,7 +214,7 @@ __Current master students__
 
 __Current undergraduate students__
 
-☆ 招收有工科气质的本科生围绕低空飞行器智能规划与控制开展大创、科创、本科毕设等 ☆
+☆ 招收有工科气质的本科生围绕低空飞行器智能感知、规划、控制开展大创、科创、本科毕设等 ☆
 
 2025.11 - : HanYe Lu, WenShuai Xiang
 
