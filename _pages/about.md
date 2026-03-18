@@ -32,13 +32,13 @@ My current research interests include Cooperative Target Estimation and Self-Org
 # 📝 Publications
 __Journal Articles__
 
+[J] Y.C. Li, 夏卫国, 张凡, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_, 2026
+
 [J] C. Liu, L.W. Hao, 叶东, 张凡, 范才智. Fully distributed fencing control of an unknown maneuver target by multi-agent systems under external disturbances. _under review_, 2026
 
 [J] R.T. Zhong, Z.M. Yang, J.L. Chen, 张雨浓, 李帅, 张凡. Predefined-time bearing-only mobile localization: An integral reciprocal zeroing neural network solution. _under review_, 2026 
 
 [J] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. _under review_, 2025
-
-[J] Y.C. Li, 夏卫国, 张凡, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_, 2025
 
 [J] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 3rd round_, 2024
 
