@@ -25,7 +25,7 @@ I received both the B.S. and the M.S. degrees from Harbin Institute of Technolog
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
 
-My current research interests include Cooperative Target Estimation and Self-Orginazing Fencing Control.
+My current research interests include Cooperative Target Estimation and Fencing Control.
 
 
 <span class='anchor' id='Publications'></span>
