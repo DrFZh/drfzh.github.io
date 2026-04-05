@@ -204,7 +204,7 @@ __Current master students__
 
 ❤ 优先考虑有继续深造计划(如出国)或对工程实践(算法、软硬件等)有强烈兴趣和执行力的同学 ❤
 
-2026.9 - : JOIN US!
+2026.9 - : JOIN US! Anything is possible !
 
 2025.9 - : PeiPei Jin, YuXin Zhang, ShaoFeng Xiong, ZengNing Lai, YiHe Zhi
 
