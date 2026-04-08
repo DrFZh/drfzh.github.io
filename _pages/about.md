@@ -19,7 +19,7 @@ redirect_from:
 
 🔥 诚邀 自动化、应用数学、智能工程 等相关专业的同学一起攻关 集群协同智能感知、规划、控制 方向的前沿技术.
 
-I received both the B.S. and the M.S. degrees from Harbin Institute of Technology, and double Ph.D. degrees from HIT (advised by Prof. 张迎春) and University of Groningen (advised by Prof. Harry Trentelman and Prof. Jacquelien Scherpen). Before joining SYSU, I worked successively in City University of Hong Kong (advised by Prof. 冯刚), Southeast University (advised by Prof. 虞文武), and Delft University of Technology (advised by Prof. Tamás Keviczky). I also visited the Institute of Systems Science (hosted by Prof. 洪奕光), Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab (hosted by Prof. 谢广明), College of Engineering, Peking University, for weeks.
+I received both the B.S. and the M.S. degrees from Harbin Institute of Technology (advised by Prof. 张世杰), and double Ph.D. degrees from HIT (advised by Prof. 张迎春) and University of Groningen (advised by Prof. Harry Trentelman and Prof. Jacquelien Scherpen). Before joining SYSU, I worked successively in City University of Hong Kong (advised by Prof. 冯刚), Southeast University (advised by Prof. 虞文武), and Delft University of Technology (advised by Prof. Tamás Keviczky). I also visited the Institute of Systems Science (hosted by Prof. 洪奕光), Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab (hosted by Prof. 谢广明), College of Engineering, Peking University, for weeks.
 
 
 <span class='anchor' id='ResearchInterests'></span>
