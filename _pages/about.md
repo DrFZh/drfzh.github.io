@@ -196,6 +196,8 @@ __Conference Proceedings__
 
 __Current Ph.D. students__
 
+2026.9 - : JOIN US! Anything is possible !
+
 2025.9 - : Cheng Liu, YunWei Guo
 
 2024.9 - : ZhiMing Yang
