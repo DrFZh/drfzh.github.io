@@ -211,6 +211,8 @@ __Current master students__
 
 ❤ 优先考虑 有继续深造计划(如出国) 或 对工程实践(算法、软硬件等)有强烈兴趣和执行力 的同学 ❤
 
+2027.9 - : JOIN US! Anything is possible !
+
 2026.9 - : PeiWen Yang, QuanKe Chen
 
 2025.9 - : PeiPei Jin, YuXin Zhang, ShaoFeng Xiong, ZengNing Lai, YiHe Zhi
@@ -219,7 +221,7 @@ __Current master students__
 
 __Current undergraduate students__
 
-☆ 招收有工科气质的本科生围绕 低空飞行器智能GNC、室内自主导航 开展大创、科创、本科毕设等 ☆
+☆ 招收有 工科气质 的本科生围绕 低空飞行器智能GNC、室内自主导航 开展大创、科创、本科毕设等 ☆
 
 2026.7 - : JOIN US! Anything is possible !
 
