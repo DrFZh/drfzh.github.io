@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🔥 诚邀 自动化、应用数学、智能工程 等相关专业的同学一起攻关 集群协同智能感知、规划、控制 方向的前沿技术.
+🔥 诚邀 自动化、应用数学、智能工程 等相关专业的同学一起攻关 跨域异构集群协同智能感知、规划、控制 方向的前沿技术.
 
 I received both the B.S. and the M.S. degrees from Harbin Institute of Technology (advised by Prof. 张世杰), and double Ph.D. degrees from HIT (advised by Prof. 张迎春) and University of Groningen (advised by Prof. Harry Trentelman and Prof. Jacquelien Scherpen). Before joining SYSU, I worked successively in City University of Hong Kong (advised by Prof. 冯刚), Southeast University (advised by Prof. 虞文武), and Delft University of Technology (advised by Prof. Tamás Keviczky). I also visited the Institute of Systems Science (hosted by Prof. 洪奕光), Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab (hosted by Prof. 谢广明), College of Engineering, Peking University, for weeks.
 
@@ -25,7 +25,7 @@ I received both the B.S. and the M.S. degrees from Harbin Institute of Technolog
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
 
-My current research interests include Cooperative Target Perception and Fencing Control.
+My current research interests include Cooperative Target Perception and Fencing Control, RL-Enhanced Control.
 
 
 <span class='anchor' id='Publications'></span>
@@ -212,8 +212,6 @@ __Current master students__
 
 2024.9 - : Hao Chen, QinTao Lai, RuTao Zhong
 
-2023.9 - : YuAng Ke, YaChuan Li
-
 __Current undergraduate students__
 
 ☆ 招收有工科气质的本科生围绕 低空飞行器智能导航与控制、室内自主导航 开展大创、科创、本科毕设等 ☆
@@ -229,6 +227,10 @@ __Current Postdocs__
 ___
 __Former master students__
 
+2023.9 - 2025.6: YaChuan Li (机械自动化工程师, 深圳捷佳伟创)
+
+2023.9 - 2025.6: YuAng Ke (博士生, PolyU & Loughborough University, 导师: 陈文华 教授)
+
 2022.9 - 2025.6: Chen Liu (博士生, SYSU)
 
 2022.9 - 2025.6: Hao Xu (电机控制工程师, 重庆中微半导)
@@ -241,7 +243,7 @@ __Former master students__
 
 2020.9 - 2022.6: Xin Deng (产品经理, 杭州菜鸟网络)
 
-2019.9 - 2022.6: JinZe Wu (博士生, 南科大&意大利都灵理工, 导师: 林志赟 教授)
+2019.9 - 2022.6: JinZe Wu (博士生, SUSTech & Polito, 导师: 林志赟 教授)
 
 __Former undergraduate students__
 
