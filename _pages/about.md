@@ -204,7 +204,7 @@ __Current master students__
 
 ❤ 优先考虑有继续深造计划(如出国)或对工程实践(算法、软硬件等)有强烈兴趣和执行力的同学 ❤
 
-2026.9 - : JOIN US! Anything is possible !
+2026.9 - : PeiWen Yang, QuanKe Chen
 
 2025.9 - : PeiPei Jin, YuXin Zhang, ShaoFeng Xiong, ZengNing Lai, YiHe Zhi
 
@@ -216,7 +216,7 @@ __Current undergraduate students__
 
 ☆ 招收有工科气质的本科生围绕 低空飞行器智能导航与控制、室内自主导航 开展大创、科创、本科毕设等 ☆
 
-2025.11 - : HanYe Lu, WenShuai Xiang
+2026.7 - : JOIN US! Anything is possible !
 
 __Current Postdocs__
 
@@ -242,6 +242,8 @@ __Former master students__
 2019.9 - 2022.6: JinZe Wu (博士生, 南科大&意大利都灵理工, 导师: 林志赟 教授)
 
 __Former undergraduate students__
+
+2025.9 - 2026.5: HanYe Lu (硕士生, SYSU), WenShuai Xiang (硕士生, HKU)
 
 2024.9 - 2025.5: PeiPei Jin (硕士生, SYSU), NiCan Liu (硕士生, HKUST)
 
