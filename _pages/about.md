@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🔥 诚邀 自动化、应用数学、智能工程 等相关专业的同学一起攻关 跨域异构集群协同智能感知、规划、控制 方向的前沿技术.
+🔥 诚邀 自动化、智能工程、应用数学 等相关专业的同学一起攻关 跨域异构集群协同智能感知、规划、控制 方向的前沿技术.
 
-I received both the B.S. and the M.S. degrees from Harbin Institute of Technology (advised by Prof. 张世杰), and double Ph.D. degrees from HIT (advised by Prof. 张迎春) and University of Groningen (advised by Prof. Harry Trentelman and Prof. Jacquelien Scherpen). Before joining SYSU, I worked successively in City University of Hong Kong (advised by Prof. 冯刚), Southeast University (advised by Prof. 虞文武), and Delft University of Technology (advised by Prof. Tamás Keviczky). I also visited the Institute of Systems Science (hosted by Prof. 洪奕光), Academy of Mathematics and Systems Science, Chinese Academy of Sciences,  and the Intelligent Biomimetic Design Lab (hosted by Prof. 谢广明), College of Engineering, Peking University, for weeks.
+I received both the B.S. and the M.S. degrees from Harbin Institute of Technology (advised by Prof. 张世杰), and double Ph.D. degrees from HIT (advised by Prof. 张迎春) and University of Groningen (advised by Prof. Harry Trentelman and Prof. Jacquelien Scherpen). Before joining SYSU, I worked successively in City University of Hong Kong (hosted by Prof. 冯刚), Southeast University (hosted by Prof. 虞文武), and Delft University of Technology (hosted by Prof. Tamás Keviczky). I also visited the Institute of Systems Science (hosted by Prof. 洪奕光), and the Intelligent Biomimetic Design Lab (hosted by Prof. 谢广明), for weeks.
 
 
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
 
-My current research interests include Cooperative Target Perception and Fencing Control, RL-Enhanced Control.
+My current research interests include Cooperative Target Perception and Fencing Control, RL-Enhanced Cooperative Control.
 
 
 <span class='anchor' id='Publications'></span>
@@ -40,9 +40,9 @@ __Journal Articles__
 
 [J] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. _under review_
 
-[J] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems. IEEE Transactions on Systems,Man,and Cybernetics:Systems, _under review 3rd round_
+[J] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems.  _under review_
 
-[J34] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. _online_, 2026
+[J34] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. Advances in Space Research, 77(9):9483-9499, May 2026
 
 [J33] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Singleton-free fencing control of unknown maneuver target. International Journal of Robust and Noninear Control, 36:3479–3487, 2026 
 
@@ -175,7 +175,10 @@ __Conference Proceedings__
   
 - Conference Editorial Board: IEEE Control Systems Society
 
-- Program Committee Member: ACC, Philadelphia, PA, USA, July 6-9, 2027;
+- Program Committee Member:
+
+  ACC, Philadelphia, PA, USA, July 6-9, 2027;
+  
   20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
 
 <!-- - Reviewer: IEEE Transactions on Automatic Control, Automatica, IEEE Transactions on Control of Network Systems, Journal of Robust and Nonlinear Control, Systems & Control Letters, International Journal of Control, European Journal of Control, Nonlinear Analysis: Hybrid Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Systems, Man and Cybernetics: Systems, Journal of The Franklin Institute, Asian Journal of Control, IEEE Control Systems Letters, Optimal Control Applications and Methods, International Journal of Adaptive Control and Signal Processing, IEEE Systems Journal -->
