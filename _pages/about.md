@@ -38,9 +38,9 @@ __Journal Articles__
 
 [J] R.T. Zhong, Z.M. Yang, J.L. Chen, 张雨浓, 李帅, 张凡. Predefined-time bearing-only mobile localization: An integral reciprocal zeroing neural network solution. _under review_
 
-[J] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. _under review_
-
 [J] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems.  _under review_
+
+[J] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensors via a novel robust feedback-cascaded extended high-gain observer and projection-based dynamic inversion. IEEE Transactions on Aerospace and Electronic Systems, _to appear_, 2026
 
 [J34] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. Advances in Space Research, 77(9):9483-9499, May 2026
 
