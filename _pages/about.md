@@ -201,7 +201,7 @@ __Conference Proceedings__
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 
-★ <font color="#FFA500">以混学位为目的的同学请勿联系</font> ★
+★ <font color="orange">以混学位为目的的同学请勿联系</font> ★
 
 __Current Ph.D. students__
 
