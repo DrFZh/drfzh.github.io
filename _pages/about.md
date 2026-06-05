@@ -225,7 +225,7 @@ __Current master students__
 
 __Current undergraduate students__
 
-☆ 招收有 工科气质 的本科生围绕 <font color="blue">低空飞行器智能GNC</font>、<font color="blue">室内自主导航</font> 开展大创、科创、本科毕设等 ☆
+☆ 招收有 工科气质 的本科生围绕 <font color="blue">低空飞行器智能GNC</font>、<font color="blue">室内自主导航</font> 开展<u>大创</u>、<u>科创</u>、<u>本科毕设</u>等 ☆
 
 2026.7 - : _JOIN US! Anything is possible !_
 
