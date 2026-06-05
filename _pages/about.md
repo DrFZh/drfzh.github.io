@@ -66,7 +66,7 @@ __Journal Articles__
 
 [J23] 张婷婷, 张世杰, F.Z. Guo, 赵祥天, 张凡. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, 137:160-174, June 2023
 
-[J22] 王晓玲, 苏厚胜, 张凡, 陈关荣. A robust distributed interval observer for LTI systems. <font color="blue">IEEE Transactions on Automatic Control _full paper_</font>, 68(3):1337-1352, March 2023
+[J22] 王晓玲, 苏厚胜, 张凡, 陈关荣. A robust distributed interval observer for LTI systems. <font color="blue">IEEE Transactions on Automatic Control</font> _<font color="blue">full paper</font>_, 68(3):1337-1352, March 2023
 
 [J21] N. Wang, 温广辉, Y. Wang, 张凡, A. Zemouche. Fuzzy adaptive cooperative consensus tracking of high-order nonlinear multi-agent networks with guaranteed performances. <font color="blue">IEEE Transactions on Cybernetics</font>, 52(9):8838-8850, September 2022
 
@@ -92,7 +92,7 @@ __Journal Articles__
 
 [J10] F.Z. Guo, 张婷婷, 张凡, L. Gao, Z.P. Wang, 张世杰. Event-triggered coordinated attitude control for satellite formation under switching topology. Advanced Control for Applications: Engineering and Industrial Systems, 2(2):e34, 2020.
 
-[J9] A. Zemouche, 张凡, F. Mazenc, R. Rajamani. High-gain nonlinear observer design with lower tuning parameter. <font color="blue">IEEE Transactions on Automatic Control _full paper_</font>, 64(8):3194-3209, 2019
+[J9] A. Zemouche, 张凡, F. Mazenc, R. Rajamani. High-gain nonlinear observer design with lower tuning parameter. <font color="blue">IEEE Transactions on Automatic Control</font> _<font color="blue">full paper</font>_, 64(8):3194-3209, 2019
 
 [J8] 成晓东, J. M.A. Scherpen, 张凡. Model reduction of synchronized Lur'e networks with incrementally sector-bounded nonlinearities. European Journal of Control, 50:11-19, November 2019
 
@@ -106,7 +106,7 @@ __Journal Articles__
 
 [J3] 张凡, H. L. Trentalman, J. M.A. Scherpen. Dynamic feedback synchronization of Lur'e networks via incremental sector boundedness. <font color="blue">IEEE Transactions on Automatic Control</font>, 61(9):2579-2584, September 2016
 
-[J2] 张凡, H. L. Trentelman, J. M.A. Scherpen. Fully distributed robust synchronization of networked Lur'e systems with incremental nonlinearities. <font color="blue">Automatica _regular paper_</font>, 50(10):2515-2526, October 2014
+[J2] 张凡, H. L. Trentelman, J. M.A. Scherpen. Fully distributed robust synchronization of networked Lur'e systems with incremental nonlinearities. <font color="blue">Automatica</font> _<font color="blue">regular paper</font>_, 50(10):2515-2526, October 2014
 
 [J1] 张世杰, 曹喜滨, 张凡, 贺亮. Monocular vision-based iterative pose estimation algorithm from corresponding feature points. Science China Information Sciences, 53(8):1682-1696, August 2010
 
