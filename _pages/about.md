@@ -56,7 +56,7 @@ __Journal Articles__
 
 [J28] 张凡, 金翠丽, 夏卫国, 孙希明, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, 197:1-8, March 2025
 
-[J27] S.Y. Meng, 孟范伟, 张凡, Q. Li, Y. Zhang, A. Zemouche. Observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications. <font color="blue">Automatica _regular paper_</font>, 162:1-12, April 2024
+[J27] S.Y. Meng, 孟范伟, 张凡, Q. Li, Y. Zhang, A. Zemouche. Observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications. <font color="blue">Automatica</font> _<font color="blue">regular paper</font>_, 162:1-12, April 2024
 
 [J26] P. Ramazi, 张凡, 曹明. Cooperative concurrent targeting for planar arrays of point sources. <font color="blue">Automatica</font>, 159:1-7, January 2024
 
