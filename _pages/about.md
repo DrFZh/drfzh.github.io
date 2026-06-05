@@ -19,7 +19,7 @@ redirect_from:
 
 🔥 诚邀 自动化、智能工程、应用数学 等相关专业的同学一起攻关 <font color="blue">跨域异构集群协同智能感知、规划、控制</font> 方向的前沿技术,
 
-   &nbsp;&nbsp; 详见团队负责人 <a href="https://saa.sysu.edu.cn/teacher/448" style="color:black;text-decoration:none" title="访问其主页">张锦绣</a> 教授/副院长 主页.
+   &nbsp;&nbsp;&nbsp; 详见团队负责人 <a href="https://saa.sysu.edu.cn/teacher/448" style="color:black;text-decoration:none" title="访问其主页">张锦绣</a> 教授/副院长 主页.
 
 I received both the B.S. and the M.S. degrees from Harbin Institute of Technology (advised by Prof. <a href="https://teacher.bupt.edu.cn/zhangshijie/zh_CN/index/239968/list/index.htm" style="color:black;text-decoration:none" title="访问其主页">张世杰</a>), and double Ph.D. degrees from HIT (advised by Prof. 张迎春) and University of Groningen (advised by Prof. Harry Trentelman and Prof. Jacquelien Scherpen). Before joining SYSU, I worked successively in City University of Hong Kong (hosted by Prof. Prof. <a href="https://www.cityu.edu.hk/en/mne/people/academic-staff/mne-faculty/prof-feng-gang" style="color:black;text-decoration:none" title="访问其主页">冯刚</a>), Southeast University (hosted by Prof. <a href="https://math.seu.edu.cn/yww/list.htm" style="color:black;text-decoration:none" title="访问其主页">虞文武</a>), and Delft University of Technology (hosted by Prof. Tamás Keviczky). I also visited the Institute of Systems Science (hosted by Prof. <a href="https://see.tongji.edu.cn/info/1377/10305.htm" style="color:black;text-decoration:none" title="访问其主页">洪奕光</a>), and the Intelligent Biomimetic Design Lab (hosted by Prof. <a href="https://www.coe.pku.edu.cn/teaching/all_time/7139.html" style="color:black;text-decoration:none" title="访问其主页">谢广明</a>), for weeks.
 
