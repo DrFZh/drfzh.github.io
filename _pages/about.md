@@ -64,7 +64,7 @@ __Journal Articles__
 
 [J25] 张凡, 李元龙, 夏卫国, 刘涛, 虞文武. Synchronization of Lur'e networks via heterogeneous unknown interconnections. <font color="blue">IEEE Transactions on Circuits and Systems II: Express Briefs</font>, 71(2):807-811, February 2024
 
-[J24] 吴金泽, 袁帅, 党庆庆, 张凡, 虞文武. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, 360(12):9050-9064, August 2023
+[J24] J.Z. Wu, 袁帅, 党庆庆, 张凡, 虞文武. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, 360(12):9050-9064, August 2023
 
 [J23] 张婷婷, 张世杰, F.Z. Guo, 赵祥天, 张凡. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, 137:160-174, June 2023
 
@@ -82,7 +82,7 @@ __Journal Articles__
 
 [J16] 李爽, 夏卫国, 张凡. Synchronization of continuous-time linear systems with time-varying output couplings. <font color="blue">IEEE Transactions on Industrial Informatics</font>, 18(1):143-152, January 2022
 
-[J15] 吴金泽, 蒲卫华, 张凡, 虞文武. Decentralized targeting control of collinear agents. Asian Journal of Control, 24:782–793, 2022
+[J15] J.Z. Wu, 蒲卫华, 张凡, 虞文武. Decentralized targeting control of collinear agents. Asian Journal of Control, 24:782–793, 2022
 
 [J14] 王晓玲, 苏厚胜, 张凡, A. Zemouche, 陈关荣. Interval observer design and consensus of multi-agent systems with time-varying interval uncertainties. <font color="blue">SIAM Journal on Control and Optimization</font>, 59(5):3392-3417, 2021
 
