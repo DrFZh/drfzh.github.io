@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🔥 诚邀 自动化、智能工程、应用数学 等相关专业的同学一起攻关 跨域异构集群协同智能感知、规划、控制 方向的前沿技术.
+🔥 诚邀 自动化、智能工程、应用数学 等相关专业的同学一起攻关 <font color="blue">跨域异构集群协同智能感知、规划、控制</font> 方向的前沿技术.
 
 I received both the B.S. and the M.S. degrees from Harbin Institute of Technology (advised by Prof. 张世杰), and double Ph.D. degrees from HIT (advised by Prof. 张迎春) and University of Groningen (advised by Prof. Harry Trentelman and Prof. Jacquelien Scherpen). Before joining SYSU, I worked successively in City University of Hong Kong (hosted by Prof. 冯刚), Southeast University (hosted by Prof. 虞文武), and Delft University of Technology (hosted by Prof. Tamás Keviczky). I also visited the Institute of Systems Science (hosted by Prof. 洪奕光), and the Intelligent Biomimetic Design Lab (hosted by Prof. 谢广明), for weeks.
 
@@ -173,9 +173,9 @@ __Conference Proceedings__
 
 <span class='anchor' id='ProfessionalService'></span>
 # 💼 Professional Service
-- Associate Editor: European Journal of Control, IET Control Theory & Applications
-  
-- Conference Editorial Board: IEEE Control Systems Society
+- <font color="blue">Associate Editor</font>: European Journal of Control, IET Control Theory & Applications
+
+- <font color="blue">Conference Editorial Board</font>: IEEE Control Systems Society
 
 - Program Committee Member:
 
@@ -197,7 +197,7 @@ __Conference Proceedings__
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 
-★ 以混学位为目的的同学请勿联系 ★
+★ <font color="red">以混学位为目的的同学请勿联系</font> ★
 
 __Current Ph.D. students__
 
@@ -221,7 +221,7 @@ __Current master students__
 
 __Current undergraduate students__
 
-☆ 招收有 工科气质 的本科生围绕 低空飞行器智能GNC、室内自主导航 开展大创、科创、本科毕设等 ☆
+☆ 招收有 工科气质 的本科生围绕 <font color="blue">低空飞行器智能GNC</font>、<font color="blue">室内自主导航</font> 开展大创、科创、本科毕设等 ☆
 
 2026.7 - : _JOIN US! Anything is possible !_
 
