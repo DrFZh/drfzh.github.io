@@ -173,9 +173,7 @@ __Conference Proceedings__
 
 <span class='anchor' id='ProfessionalService'></span>
 # 💼 Professional Service
-- <span style="white-space:nowrap;">
-    <font color="blue">Associate Editor</font>: European Journal of Control, IET Control Theory & Applications
-  </span>
+- <span style="white-space:nowrap;"><font color="blue">Associate Editor</font>: European Journal of Control, IET Control Theory & Applications</span>
 
 - <span style="white-space:nowrap;">
     <font color="blue">Conference Editorial Board</font>: IEEE Control Systems Society
