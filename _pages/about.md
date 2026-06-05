@@ -175,13 +175,13 @@ __Conference Proceedings__
 # 💼 Professional Service
 - <span style="white-space:nowrap;">
     <font color="blue">Associate Editor</font>: European Journal of Control, IET Control Theory & Applications
-  <\span>
+  </span>
 
-- <font color="blue">Conference Editorial Board</font>
+- <span style="white-space:nowrap;">
+    <font color="blue">Conference Editorial Board</font>: IEEE Control Systems Society
+  </span>
 
-  IEEE Control Systems Society
-
-- Program Committee Member
+- Program Committee Member:
 
   ACC, Philadelphia, PA, USA, July 6-9, 2027;
   
@@ -228,10 +228,7 @@ __Current undergraduate students__
 ☆ 招收有 工科气质 的本科生围绕 <font color="blue">低空飞行器智能GNC</font>、<font color="blue">室内自主导航</font> 开展<u>大创</u>、<u>科创</u>、<u>本科毕设</u>等 ☆
 
 <span style="white-space:nowrap;">
-  <font color="green">
-    有兴趣从事 医工结合 方向的本科生请联系(如去医学院、生医工读研)
-  </font>
-    Control is ubiquitous😃
+  <font color="green">有兴趣从事 医工结合 方向的本科生请联系(如去医学院、生医工读研)</font> Control is ubiquitous😃
 </span>
 
 2026.7 - : _JOIN US! Anything is possible !_
