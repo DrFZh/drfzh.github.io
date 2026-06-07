@@ -232,7 +232,9 @@ __Current undergraduate students__
 
 2026.7 - : _JOIN US ! Anything is possible !_
 
-计划选题一: 基于TinyMPC的固定翼无人机控制设计与实现
+计划选题一: 基于TinyMPC的固定翼无人机控制系统设计与实现
+
+计划选题二: 基于地磁场的室内导航算法设计与实现
 
 __Current Postdocs__
 
