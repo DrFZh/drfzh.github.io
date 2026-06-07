@@ -2,6 +2,9 @@
 # main links
 main:
 
+  - title: "News"
+    url: "/#News"
+
   - title: "ResearchInterests"
     url: "/#ResearchInterests"
 
