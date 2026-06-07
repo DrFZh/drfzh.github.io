@@ -153,6 +153,11 @@ __Conference Proceedings__
 
 [C1] 耿云海, W. Lu, 张凡. Robust sliding mode control for attitude control of small satellite. IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
 
+___
+__其它__
+
+H. Xu, X. Deng, 廖雪阳, 何金刚, 张凡. 航天器SDRE控制方法综述. 飞控与探测, 7(5):30-49, 2024
+
 
 <span class='anchor' id='Projects'></span>
 # 💰 Projects
