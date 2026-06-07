@@ -206,7 +206,7 @@ __Conference Proceedings__
 
 __Current Ph.D. students__
 
-2027.9 - : _JOIN US ! Anything is possible !_
+2027.9 - :
 
 2025.9 - : Cheng Liu, YunWei Guo
 
@@ -216,7 +216,7 @@ __Current master students__
 
 ❤ 优先考虑 有<u>继续深造</u>计划(如出国) 或 对<u>工程实践</u>(算法、软硬件等)有强烈兴趣和执行力 的同学 ❤
 
-2027.9 - : _JOIN US ! Anything is possible !_
+2027.9 - :
 
 2026.9 - : PeiWen Yang, QuanKe Chen
 
@@ -230,7 +230,7 @@ __Current undergraduate students__
 
 <span style="white-space:nowrap;"> <font color="green">有兴趣从事 医工结合 方向的本科生欢迎联系(如去医学院、生医工读研)</font> Control is ubiquitous😃 </span>
 
-2026.7 - : _JOIN US ! Anything is possible !_
+2026.8 -
 
 计划选题一: 基于TinyMPC的固定翼无人机控制系统设计与实现
 
