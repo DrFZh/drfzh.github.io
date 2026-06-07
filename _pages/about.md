@@ -225,7 +225,7 @@ __Current undergraduate students__
 
 ☆ 招收有 工科气质 的本科生围绕 <font color="blue">低空飞行器智能GNC</font>、<font color="blue">室内自主导航</font> 开展<u>大创</u>、<u>科创</u>、<u>本科毕设</u>等 ☆
 
-<span style="white-space:nowrap;"> <font color="green">有兴趣从事 医工结合 方向的本科生请联系(如去医学院、生医工读研)</font> Control is ubiquitous😃 </span>
+<span style="white-space:nowrap;"> <font color="green">有兴趣从事 医工结合 方向的本科生欢迎联系(如去医学院、生医工读研)</font> Control is ubiquitous😃 </span>
 
 2026.7 - : _JOIN US! Anything is possible !_
 
@@ -240,7 +240,7 @@ __Former master students__
 
 2023.9 - 2025.6: YaChuan Li (机械自动化工程师, 深圳捷佳伟创)
 
-2023.9 - 2025.6: YuAng Ke (博士生, PolyU & Loughborough University, 导师: 陈文华 教授)
+2023.9 - 2025.6: YuAng Ke (博士生, PolyU & Loughborough University, 导师: <a href="https://www.polyu.edu.hk/aae/people/academic-staff/prof-wen-hua-chen/" style="color:black;text-decoration:none" title="访问其主页">陈文华</a> 教授)
 
 2022.9 - 2025.6: Chen Liu (博士生, SYSU)
 
@@ -254,7 +254,7 @@ __Former master students__
 
 2020.9 - 2022.6: Xin Deng (产品经理, 杭州菜鸟网络)
 
-2019.9 - 2022.6: JinZe Wu (博士生, SUSTech & Polito, 导师: 林志赟 教授)
+2019.9 - 2022.6: JinZe Wu (博士生, SUSTech & Polito, 导师: <a href="https://faculty.sustech.edu.cn/?tagid=linzy&iscss=1&snapid=1&orderby=date&go=2" style="color:black;text-decoration:none" title="访问其主页">林志赟</a> 教授)
 
 __Former undergraduate students__
 
