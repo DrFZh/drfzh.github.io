@@ -155,7 +155,7 @@ __Conference Proceedings__
 
 
 <span class='anchor' id='Projects'></span>
-# 👨‍💻 Projects
+# 💰 Projects
 
 多X柔性编队围捕制导控制技术研究
 
