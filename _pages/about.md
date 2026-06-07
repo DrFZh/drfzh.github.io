@@ -236,6 +236,8 @@ __Current undergraduate students__
 
 计划选题二: 基于地磁场的室内导航算法设计与实现
 
+计划选题三: 基于pSMC的跨域无人机控制方法研究
+
 __Current Postdocs__
 
 ☁ 博士期间须有合格的科研训练 ☁
