@@ -237,7 +237,7 @@ __Current undergraduate students__
 
 <span style="white-space:nowrap;"> <font color="green">有兴趣从事 医工结合 方向的本科生欢迎联系(如去医学院、生医工读研)</font> Control is ubiquitous😃 </span>
 
-2026.8 -
+2026.8 - 欢迎提出自己的想法并探讨!
 
 计划选题一: 基于TinyMPC的固定翼无人机控制系统设计与实现
 
