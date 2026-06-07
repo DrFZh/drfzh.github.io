@@ -37,9 +37,11 @@ My current research interests include Cooperative Target Perception and Fencing 
 # 📝 Publications
 __Journal Articles__
 
+[J] Q.T. Lai, Z.M. Yang, 张凡, 郝立维, 范才智. Safe Cooperative Desired-Distance Fencing Guidance for Three-Dimensional Target with Unknown Maneuver. _under review_
+
 [J] Y.C. Li, 夏卫国, 张凡, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_
 
-[J] C. Liu, L.W. Hao, 叶东, 张凡, 范才智. Fully distributed fencing control of an unknown maneuver target by multi-agent systems under external disturbances. _under review_
+[J] C. Liu, 郝立维, 叶东, 张凡, 范才智. Fully distributed fencing control of an unknown maneuver target by multi-agent systems under external disturbances. _under review_
 
 [J] R.T. Zhong, Z.M. Yang, J.L. Chen, 张雨浓, 李帅, 张凡. Predefined-time bearing-only mobile localization: An integral reciprocal zeroing neural network solution. _under review_
 
