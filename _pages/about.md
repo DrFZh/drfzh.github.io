@@ -239,13 +239,15 @@ __Current undergraduate students__
 
 ☆ 招收有 工科气质 的本科生围绕 <font color="blue">低空飞行器智能GNC</font>、<font color="blue">室内自主导航</font> 开展<u>大创</u>、<u>科创</u>、<u>本科毕设</u>等 ☆
 
+<!--
 <span style="white-space:nowrap;"> <font color="green">有兴趣从事 医工结合 方向的本科生欢迎联系(如去医学院、生医工读研)</font> Control is ubiquitous😃 </span>
+-->
 
 2026.8 - 欢迎提出自己的想法并探讨!
 
 计划选题一: 基于TinyMPC的固定翼无人机飞控系统设计与实现
 
-计划选题二: 地磁场室内导航算法设计及实验
+计划选题二: 基于WIFI与地磁场的室内导航算法设计及小程序实验
 
 计划选题三: 基于pSMC的跨域无人机控制方法研究
 
