@@ -249,7 +249,7 @@ __Current undergraduate students__
 
 计划选题二: 室内地磁导航算法设计及小程序开发
 
-计划选题三: 室内自主导航嵌入式系统设计
+计划选题三: 室内自主导航嵌入式系统设计与开发
 
 __Current Postdocs__
 
