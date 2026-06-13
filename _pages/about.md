@@ -49,7 +49,7 @@ __Journal Articles__
 
 [J] H.F. Wang, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for observability canonical systems.  _under review_
 
-[J35] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensor via a robust feedback-cascaded high-gain observer and nonlinear dynamic inversion with projection. <font color="blue">IEEE Transactions on Aerospace and Electronic Systems</font>, _to appear_, 2026
+[J35] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensor via a robust feedback-cascaded high-gain observer and nonlinear dynamic inversion with projection. <font color="blue">IEEE Transactions on Aerospace and Electronic Systems</font>, _online_, 2026
 
 [J34] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. Advances in Space Research, 77(9):9483-9499, May 2026
 
@@ -160,7 +160,9 @@ __Conference Proceedings__
 ___
 __其它__
 
-[2] 何金刚, 张凡, 孟中杰, 周赢. 低过载比多弹自组织协同围捕打击方法. 国防科技大学学报, 48(1):175-182, 2026
+[3] 何金刚, 张凡, 孟中杰, 周赢. 低过载比多弹自组织协同围捕打击方法. 国防科技大学学报, 48(1):175-182, 2026
+
+[2] 祝竺, 谢进进, 张凡, 张倩云. 惯性传感器在空间引力波探测任务中的控制策略研究. 飞控与探测, 8(6):89-94, 2025
 
 [1] H. Xu, X. Deng, 廖雪阳, 何金刚, 张凡. 航天器SDRE控制方法综述. 飞控与探测, 7(5):30-49, 2024
 
@@ -250,6 +252,8 @@ __Current undergraduate students__
 计划选题二: 室内地磁导航算法设计及小程序开发
 
 计划选题三: 室内嵌入式自主导航系统设计与开发
+
+计划选题四: 基于自适应最优控制的化疗精准给药调控专家系统设计
 
 __Current Postdocs__
 
