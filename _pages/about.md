@@ -268,11 +268,11 @@ __Former master students__
 
 2023.9 - 2025.6: YuAng Ke (博士生, PolyU & Loughborough University, 导师: <a href="https://www.polyu.edu.hk/aae/people/academic-staff/prof-wen-hua-chen/" style="color:black;text-decoration:none" title="访问其主页">陈文华</a> 教授)
 
-2022.9 - 2025.6: Chen Liu (博士生, SYSU)
-
 2022.9 - 2025.6: Hao Xu (电机控制工程师, 重庆中微半导)
 
 2022.9 - 2025.6: JiaBo Liu (飞控工程师, 南昌洪都航空)
+
+2022.9 - 2025.6: Chen Liu (博士生, SYSU)
 
 2021.9 - 2024.6: HongJie Fang (运动控制工程师, 深圳固胜智能)
 
