@@ -99,7 +99,7 @@ __Journal Articles__
 
 [J11] 温广辉, 王佩君, 黄廷文, 吕金虎, 张凡. Distributed consensus of layered multi-agent systems subject to attacks on edges. <font color="blue">IEEE Transactions on Circuits and Systems I: Regular Papers</font>, 67(9):3152-3162, 2020
 
-[J10] F.Z. Guo, 张婷婷, 张凡, L. Gao, Z.P. Wang, 张世杰. Event-triggered coordinated attitude control for satellite formation under switching topology. Advanced Control for Applications: Engineering and Industrial Systems, 2(2):e34, 2020.
+[J10] F.Z. Guo, T.T. Zhang, 张凡, L. Gao, Z.P. Wang, 张世杰. Event-triggered coordinated attitude control for satellite formation under switching topology. Advanced Control for Applications: Engineering and Industrial Systems, 2(2):e34, 2020.
 
 [J9] A. Zemouche, 张凡, F. Mazenc, R. Rajamani. High-gain nonlinear observer design with lower tuning parameter. <font color="blue">IEEE Transactions on Automatic Control</font> _<font color="blue">full paper</font>_, 64(8):3194-3209, 2019
 
