@@ -73,7 +73,7 @@ __Journal Articles__
 
 [J24] J.Z. Wu, 袁帅, 党庆庆, 张凡, 虞文武. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, 360(12):9050-9064, August 2023
 
-[J23] 张婷婷, 张世杰, F.Z. Guo, 赵祥天, 张凡. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, 137:160-174, June 2023
+[J23] T.T. Zhang, 张世杰, F.Z. Guo, 赵祥天, 张凡. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, 137:160-174, June 2023
 
 [J22] 王晓玲, 苏厚胜, 张凡, 陈关荣. A robust distributed interval observer for LTI systems. <font color="blue">IEEE Transactions on Automatic Control</font> _<font color="blue">full paper</font>_, 68(3):1337-1352, March 2023
 
@@ -85,7 +85,7 @@ __Journal Articles__
 
 [J18] 张凡, 温广辉, A. Zemouche, 虞文武, J. H. Park. Output feedback self-synchronization of directed Lur'e networks via global connectivity. <font color="blue">IEEE Transactions on Cybernetics</font>, 52(7):6490-6503, July 2022
 
-[J17] 张世杰, 张婷婷, 郭海波, 张凡. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
+[J17] 张世杰, T.T. Zhang, 郭海波, 张凡. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
 
 [J16] 李爽, 夏卫国, 张凡. Synchronization of continuous-time linear systems with time-varying output couplings. <font color="blue">IEEE Transactions on Industrial Informatics</font>, 18(1):143-152, January 2022
 
