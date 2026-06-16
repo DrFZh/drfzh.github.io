@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🔥 诚邀 自动化、智能工程、应用数学 等相关专业的同学一起攻关 <font color="blue">跨域异构集群协同智能感知、规划、控制</font> 方向的前沿技术,
+🔥 诚邀 自动化、智能工程、应用数学 等相关专业的同学一起攻关 <font color="blue">跨域异构集群协同智能控制</font> 方向的前沿技术,
 
    &nbsp;&nbsp;&nbsp;&nbsp; 详见团队负责人 <a href="https://saa.sysu.edu.cn/teacher/448" style="color:black;text-decoration:none" title="访问其主页">张锦绣</a> 教授/副院长 主页.
 
