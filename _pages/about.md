@@ -39,7 +39,7 @@ My current research interests include Cooperative Target Estimation and Fencing 
 
 __Journal Articles__
 
-[J] Q.T. Lai, Z.M. Yang, 张凡, 郝立维, 范才智. Safe Cooperative Desired-Distance Fencing Guidance for Three-Dimensional Target with Unknown Maneuver. _under review_
+[J] Q.T. Lai, Z.M. Yang, 张凡, 郝立维, 范才智. Safe cooperative desired-distance fencing guidance for a 3D unknown maneuver target. _under review_
 
 [J] Y.C. Li, 夏卫国, 张凡, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_
 
