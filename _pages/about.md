@@ -217,6 +217,8 @@ __其它__
 
 <font color="orange">★ 以混学位为目的的同学请勿联系 ★</font>
 
+<span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议非自动化专业的同学提前认真学习《现代控制理论》(刘豹, 第3版)</span>
+
 __Current Ph.D. students__
 
 2027.9 - :
@@ -228,8 +230,6 @@ __Current Ph.D. students__
 __Current master students__
 
 ❤ 优先考虑 有<u>继续深造</u>计划(如出国) 或 对<u>工程实践</u>(算法、软硬件等)有强烈兴趣和执行力 的同学 ❤
-
-<span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议非自动化专业的同学认真学习《现代控制理论》(刘豹, 第3版)</span>
 
 2027.9 - :
 
