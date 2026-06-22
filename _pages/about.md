@@ -131,7 +131,7 @@ __Conference Proceedings__
 
 [C14] C. Liu, Z.N Lai, 何金刚, Z.Z. Zhang, 张凡. Fencing control of a maneuvering target by heterogeneous Euler-Lagrange swarms. 9th Chinese Conference on Swarm Intelligence and Cooperative Control, _to appear_, ShangHai, China, October 31-November 3, 2025
 
-[C13] S.Y. Meng, 孟范伟, 张凡, Q. H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, pp. 626-631, Denver, Colorado, USA, July 8-10, 2025
+[C13] S.Y. Meng, 孟范伟, 张凡, Q. H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, pp.626-631, Denver, Colorado, USA, July 8-10, 2025
 
 [C12] S.Y. Meng, 孟范伟, 张凡, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, pp.1350-1354, Toronto, Canada, July 8-12, 2024
 
