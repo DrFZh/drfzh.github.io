@@ -229,7 +229,7 @@ __Current master students__
 
 ❤ 优先考虑 有<u>继续深造</u>计划(如出国) 或 对<u>工程实践</u>(算法、软硬件等)有强烈兴趣和执行力 的同学 ❤
 
-<p><span class="dashed-line">强烈建议非本科自动化专业的同学认真学习《现代控制理论》(刘豹, 第3版)</span></p>
+<p><span style="text-decoration:underline dashed;">强烈建议非本科自动化专业的同学认真学习《现代控制理论》(刘豹, 第3版)</span></p>
 
 2027.9 - :
 
