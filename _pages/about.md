@@ -229,6 +229,8 @@ __Current master students__
 
 ❤ 优先考虑 有<u>继续深造</u>计划(如出国) 或 对<u>工程实践</u>(算法、软硬件等)有强烈兴趣和执行力 的同学 ❤
 
+[强烈建议认真学习&laquo现代控制理论&raquo(刘豹, 第3版)]
+
 2027.9 - :
 
 2026.9 - : PeiWen Yang, QuanKe Chen
