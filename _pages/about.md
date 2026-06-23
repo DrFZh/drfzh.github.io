@@ -195,9 +195,9 @@ __其它__
 
 - <span style="white-space:nowrap;"> <font color="blue">Conference Editorial Board</font>: IEEE Control Systems Society </span>
 
-- <font color="blue">Program Committee Member</font>:
+- <span style="white-space:nowrap;"> <font color="blue">Program Committee Member</font>: </span>
 
-  ACC, Philadelphia, PA, USA, July 6-9, 2027;
+  ACC, Philadelphia, PA, USA, July 6-9, 2027
   
   20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
 
