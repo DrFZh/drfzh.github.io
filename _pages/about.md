@@ -195,7 +195,7 @@ __其它__
 
 - <span style="white-space:nowrap;"> <font color="blue">Conference Editorial Board</font>: IEEE Control Systems Society </span>
 
-- Program Committee Member:
+- <font color="blue">Program Committee Member</font>:
 
   ACC, Philadelphia, PA, USA, July 6-9, 2027;
   
