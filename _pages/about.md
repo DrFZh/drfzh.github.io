@@ -217,7 +217,7 @@ __其它__
 
 <font color="orange">★ 以混学位为目的的同学请勿联系 ★</font>
 
-<span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习《现代控制理论》(刘豹, 第3版)、《Nonlinear Systems》(H. K. Khalil, 3rd Edition)</span>
+<span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习《现代控制理论》(刘豹, 第3版)、《Nonlinear Systems》(H. K. Khalil, 3rd Edition)必要章节</span>
 
 __Current Ph.D. students__
 
