@@ -129,7 +129,7 @@ __Conference Proceedings__
 
 [C15] Z.N. Lai, C. Liu, P.P. Jin, 张凡. Fencing control of heterogeneous Euler-Lagrange Swarms with Application to Satellite Formation. International Conference on Guidance, Navigation and Control, _to appear_, GuiLin, China, August 7-9, 2026
 
-[C14] C. Liu, Z.N Lai, 何金刚, Z.Z. Zhang, 张凡. Fencing control of a maneuvering target by heterogeneous Euler-Lagrange swarms. 9th Chinese Conference on Swarm Intelligence and Cooperative Control, _to appear_, ShangHai, China, October 31-November 3, 2025
+[C14] C. Liu, Z.N Lai, 何金刚, Z.Z. Zhang, 张凡. Fencing control of a maneuvering target by heterogeneous Euler-Lagrange swarms. 9th Chinese Conference on Swarm Intelligence and Cooperative Control, pp.781–792, ShangHai, China, October 31-November 3, 2025
 
 [C13] S.Y. Meng, 孟范伟, 张凡, Q. H. NGUYEN, M. Alma, A. Zemouche. Distributed high-gain observer for nonlinear connected autonomous vehicle. American Control Conference, pp.626-631, Denver, Colorado, USA, July 8-10, 2025
 
