@@ -247,13 +247,7 @@ __Current undergraduate students__
 <span style="white-space:nowrap;"> <font color="green">有兴趣从事 医工结合 方向的本科生欢迎联系(如去医学院、生医工读研)</font> Control is ubiquitous😃 </span>
 -->
 
-2026.8 - 欢迎提出自己的想法并探讨!
-
-计划选题一: 基于TinyMPC的跨域无人机飞控系统设计与实验
-
-计划选题二: 室内地磁导航算法设计及小程序开发
-
-计划选题三: 基于自适应最优控制/强化学习的精准化疗智能给药专家系统设计
+2026.8 -
 
 __Current Postdocs__
 
