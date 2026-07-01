@@ -219,6 +219,8 @@ __其它__
 
 <span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习《现代控制理论》(刘豹, 第3版)、《Nonlinear Systems》(H. K. Khalil, 3rd Edition)必要章节</span>
 
+<span style="border-bottom:1px dashed #333;padding-bottom:2px;">或提前认真学习《Reinforcement Learning: An Introduction》(R. S. Sutton, A. G. Barto, 2nd Edition)</span>
+
 __Current Ph.D. students__
 
 2027.9 - :
