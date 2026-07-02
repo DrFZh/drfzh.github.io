@@ -20,8 +20,8 @@ main:
   - title: "GroupMembers"
     url: "/#GroupMembers"
 
-  - title: "UsefulLinks"
-    url: "/#UsefulLinks"
-
   - title: "Equipments"
     url: "/#Equipments"
+
+  - title: "UsefulLinks"
+    url: "/#UsefulLinks"
