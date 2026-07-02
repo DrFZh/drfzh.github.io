@@ -219,7 +219,7 @@ __其它__
 
 <font color="orange">★ 以混学位为目的的同学请勿联系 ★</font>
 
-<span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习《现代控制理论》(刘豹, 第3版)、《Nonlinear Systems》(H.K. Khalil, 3rd Edition)、《Sliding Mode Control and Observation》(Y. Shtessel) 或 《Reinforcement Learning: An Introduction》(R.S. Sutton, 2nd Edition)、《A Course in Reinforcement Learning》(D.P. Bertsekas, 2nd Edition)必要章节</span>
+<span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习《现代控制理论》(刘豹, 第3版)、《Nonlinear Systems》(H.K. Khalil, 3rd Edition)、《Sliding Mode Control and Observation》(Y. Shtessel) 或《Reinforcement Learning: An Introduction》(R.S. Sutton, 2nd Edition)、《A Course in Reinforcement Learning》(D.P. Bertsekas, 2nd Edition)必要章节</span>
 
 __Current Ph.D. students__
 
