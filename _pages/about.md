@@ -204,10 +204,6 @@ __其它__
 动态拓扑下鲁里叶网络的协调控制
 
 
-<span class='anchor' id='Equipments'></span>
-# 🧰 Equipments
-
-
 <!--
 <span class='anchor' id='Courses'></span>
 # 📖 Courses
@@ -289,6 +285,10 @@ __Former undergraduate students__
 2023.11 - 2024.5: ZhiYang Sun (硕士生, SYSU)
 
 2022.11 - 2023.5: YuAng Ke (硕士生, SYSU), MingShuai Wu (硕士生, SYSU), Ke Xu (硕士生, PKU)
+
+
+<span class='anchor' id='Equipments'></span>
+# 🧰 Equipments
 
 
 <span class='anchor' id='UsefulLinks'></span>
