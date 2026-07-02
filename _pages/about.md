@@ -25,7 +25,7 @@ I received both the B.S. degree (advised by Prof. 何平) and the M.S. degree (a
 
 
 <span class='anchor' id='News'></span>
-# ✌ News
+# 🔔 News
 
 
 <span class='anchor' id='ResearchInterests'></span>
