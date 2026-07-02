@@ -34,6 +34,21 @@ I received both the B.S. degree (advised by Prof. 何平) and the M.S. degree (a
 My current research interests include Cooperative Target Estimation and Fencing Control, RL-Enhanced Cooperative Estimation and Control.
 
 
+<span class='anchor' id='ProfessionalService'></span>
+# 💼 Professional Service
+- <span style="white-space:nowrap;"> <font color="blue">Associate Editor</font>: European Journal of Control, IET Control Theory & Applications </span>
+
+- <span style="white-space:nowrap;"> <font color="blue">Conference Editorial Board</font>: IEEE Control Systems Society </span>
+
+- <span style="white-space:nowrap;"> <font color="blue">Program Committee Member</font>: </span>
+
+  ACC, Philadelphia, PA, USA, July 6-9, 2027
+  
+  20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
+
+<!-- - Reviewer: IEEE Transactions on Automatic Control, Automatica, IEEE Transactions on Control of Network Systems, Journal of Robust and Nonlinear Control, Systems & Control Letters, International Journal of Control, European Journal of Control, Nonlinear Analysis: Hybrid Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Systems, Man and Cybernetics: Systems, Journal of The Franklin Institute, Asian Journal of Control, IEEE Control Systems Letters, Optimal Control Applications and Methods, International Journal of Adaptive Control and Signal Processing, IEEE Systems Journal -->
+
+
 <span class='anchor' id='Publications'></span>
 # 📝 Publications
 
@@ -187,21 +202,6 @@ __其它__
 动态拓扑下鲁里叶网络的协调控制及在生物系统中的应用
 
 动态拓扑下鲁里叶网络的协调控制
-
-
-<span class='anchor' id='ProfessionalService'></span>
-# 💼 Professional Service
-- <span style="white-space:nowrap;"> <font color="blue">Associate Editor</font>: European Journal of Control, IET Control Theory & Applications </span>
-
-- <span style="white-space:nowrap;"> <font color="blue">Conference Editorial Board</font>: IEEE Control Systems Society </span>
-
-- <span style="white-space:nowrap;"> <font color="blue">Program Committee Member</font>: </span>
-
-  ACC, Philadelphia, PA, USA, July 6-9, 2027
-  
-  20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
-
-<!-- - Reviewer: IEEE Transactions on Automatic Control, Automatica, IEEE Transactions on Control of Network Systems, Journal of Robust and Nonlinear Control, Systems & Control Letters, International Journal of Control, European Journal of Control, Nonlinear Analysis: Hybrid Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Systems, Man and Cybernetics: Systems, Journal of The Franklin Institute, Asian Journal of Control, IEEE Control Systems Letters, Optimal Control Applications and Methods, International Journal of Adaptive Control and Signal Processing, IEEE Systems Journal -->
 
 
 <!--
