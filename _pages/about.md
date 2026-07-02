@@ -54,6 +54,8 @@ My current research interests include Cooperative Target Estimation and Fencing 
 
 __Journal Articles__
 
+[J] Z.M. Yang, R.T. Zhong, Y.H. Zhi, 张雨浓, 李帅, 张凡. Predefined-time integral reciprocal ZNN model and its discrete-time algorithm for bearing-only dynamic 3D localization. _submitted_
+
 [J] Q.T. Lai, Z.M. Yang, 张凡, 郝立维, 范才智. Safe cooperative desired-distance fencing guidance for a 3D unknown maneuver target. _under review_
 
 [J] Y.C. Li, 夏卫国, 张凡, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_
