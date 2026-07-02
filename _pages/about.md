@@ -204,6 +204,10 @@ __其它__
 动态拓扑下鲁里叶网络的协调控制
 
 
+<span class='anchor' id='Equipments'></span>
+# 🧰 Equipments
+
+
 <!--
 <span class='anchor' id='Courses'></span>
 # 📖 Courses
