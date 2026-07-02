@@ -17,11 +17,11 @@ main:
   - title: "Projects"
     url: "/#Projects"
 
-  - title: "Equipments"
-    url: "/#Equipments"
-
   - title: "GroupMembers"
     url: "/#GroupMembers"
 
   - title: "UsefulLinks"
     url: "/#UsefulLinks"
+
+  - title: "Equipments"
+    url: "/#Equipments"
