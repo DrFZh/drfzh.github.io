@@ -8,14 +8,17 @@ main:
   - title: "ResearchInterests"
     url: "/#ResearchInterests"
 
+  - title: "ProfessionalService"
+    url: "/#ProfessionalService"
+
   - title: "Publications"
     url: "/#Publications"
 
   - title: "Projects"
     url: "/#Projects"
 
-  - title: "ProfessionalService"
-    url: "/#ProfessionalService"
+  - title: "Equipments"
+    url: "/#Equipments"
 
   - title: "GroupMembers"
     url: "/#GroupMembers"
