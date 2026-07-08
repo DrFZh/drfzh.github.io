@@ -64,7 +64,7 @@ __Journal Articles__
 
 [J] H.F. Wang, M. Tang, Z.M. Yang, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for high-order systems in observability canonical form under high-frequency measurement noise.  _under review_
 
-[J35] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensor via a robust feedback-cascaded high-gain observer and nonlinear dynamic inversion with projection. <font color="blue">IEEE Transactions on Aerospace and Electronic Systems</font>, _online_, 2026
+[J35] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensor via a robust feedback-cascaded high-gain observer and nonlinear dynamic inversion with projection. <font color="blue">IEEE Transactions on Aerospace and Electronic Systems</font>, 62:12236-12248, June 2026
 
 [J34] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. Advances in Space Research, 77(9):9483-9499, May 2026
 
