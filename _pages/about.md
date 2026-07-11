@@ -247,7 +247,7 @@ __Current undergraduate students__
 <span style="white-space:nowrap;"> <font color="green">有兴趣从事 医工结合 方向的本科生欢迎联系(如去医学院、生医工读研)</font> Control is ubiquitous😃 </span>
 -->
 
-2026.8 -
+2026.9 -
 
 
 <!--
@@ -262,9 +262,9 @@ __Current Postdocs__
 ___
 __Former master students__
 
-2023.9 - 2025.6: YaChuan Li (机械自动化工程师, 深圳捷佳伟创)
+2023.9 - 2026.6: YaChuan Li (机械自动化工程师, 深圳捷佳伟创)
 
-2023.9 - 2025.6: YuAng Ke (博士生, PolyU & Loughborough University, 导师: <a href="https://www.polyu.edu.hk/aae/people/academic-staff/prof-wen-hua-chen/" style="color:black;text-decoration:none" title="访问其主页">陈文华</a> 教授)
+2023.9 - 2026.6: YuAng Ke (博士生, PolyU & Loughborough University, 导师: <a href="https://www.polyu.edu.hk/aae/people/academic-staff/prof-wen-hua-chen/" style="color:black;text-decoration:none" title="访问其主页">陈文华</a> 教授)
 
 2022.9 - 2025.6: Hao Xu (电机控制工程师, 重庆中微半导)
 
