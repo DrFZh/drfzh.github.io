@@ -217,7 +217,9 @@ __其它__
 
 <font color="orange">★ 以混学位为目的的同学请勿联系 ★</font>
 
-<span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习《现代控制理论》(刘豹, 第3版)、《Nonlinear Systems》(H.K. Khalil, 3rd)、《Sliding Mode Control in Electro-Mechanical Systems》(V. Utkin, 2nd) 或《Reinforcement Learning: An Introduction》(R.S. Sutton, 2nd)、《A Course in Reinforcement Learning》(D.P. Bertsekas, 2nd)必要章节</span>
+<span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习《现代控制理论》(刘豹, 第3版)、《Nonlinear Systems》(H.K. Khalil, 3rd)、《Sliding Mode Control in Electro-Mechanical Systems》(V. Utkin, 2nd) 或《Reinforcement Learning: An Introduction》(R.S. Sutton, 2nd)必要章节</span>
+
+<span style="border-bottom:1px dashed #333;padding-bottom:2px;">同时推荐《Dissipative Systems Analysis and Control: Theory and Applications》(B. Brogliato, 3rd)、《L2-Gain and Passivity Techniques in Nonlinear Control》(A. van der Schaft, 3rd)、《A Course in Reinforcement Learning》(D.P. Bertsekas, 2nd)</span>
 
 __Current Ph.D. students__
 
