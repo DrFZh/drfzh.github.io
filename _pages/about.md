@@ -219,7 +219,9 @@ __其它__
 
 <span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习《现代控制理论》(刘豹, 第3版)、《Nonlinear Systems》(H. K. Khalil, 3rd)、《Sliding Mode Control and Observation》(Y. Shtessel) 或《Reinforcement Learning: An Introduction》(R. S. Sutton, 2nd)必要章节</span>
 
+<!--
 <span style="border-bottom:1px dashed #333;padding-bottom:2px;">同时推荐《Dissipative Systems Analysis and Control: Theory and Applications》(B. Brogliato, 3rd)、《L2-Gain and Passivity Techniques in Nonlinear Control》(A. van der Schaft, 3rd)、《A Course in Reinforcement Learning》(D. P. Bertsekas, 2nd)、《Robotics, Vision and Control: Fundamental Algorithms in MATLAB》(P. Corke, 3rd)、《Small Unmanned Aircraft: Theory and Practice》(R. Beard)</span>
+-->
 
 __Current Ph.D. students__
 
