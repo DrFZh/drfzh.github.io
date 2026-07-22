@@ -245,7 +245,7 @@ __Current master students__
 
 __Current undergraduate students__
 
-☆ 招收有 工科气质 的本科生围绕 <font color="blue">跨域飞行器智能GNC</font>、<font color="blue">室内自主导航</font> 开展<u>大创</u>、<u>科创</u>、<u>本科毕设</u>(有直接拿材料交差想法的勿扰)等 ☆
+☆ 招收有 工科气质 的本科生围绕 <font color="blue">跨域飞行器智能GNC</font>、<font color="blue">室内自主导航</font> 开展<u>大创</u>、<u>科创</u>、<u>本科毕设</u>等(想有现成材料交差的勿扰) ☆
 
 <!--
 <span style="white-space:nowrap;"> <font color="green">有兴趣从事 医工结合 方向的本科生欢迎联系(如去医学院、生医工读研)</font> Control is ubiquitous😃 </span>
