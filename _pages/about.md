@@ -135,6 +135,15 @@ __Journal Articles__
 [J1] 张世杰, 曹喜滨, 张凡, 贺亮. Monocular vision-based iterative pose estimation algorithm from corresponding feature points. Science China Information Sciences, 53(8):1682-1696, August 2010
 
 ___
+__国内期刊__
+
+[3] 何金刚, 张凡, 孟中杰, 周赢. 低过载比多弹自组织协同围捕打击方法. 国防科技大学学报, 48(1):175-182, 2026
+
+[2] 祝竺, 谢进进, 张凡, 张倩云. 惯性传感器在空间引力波探测任务中的控制策略研究. 飞控与探测, 8(6):89-94, 2025
+
+[1] H. Xu, X. Deng, 廖雪阳, 何金刚, 张凡. 航天器SDRE控制方法综述. 飞控与探测, 7(5):30-49, 2024
+
+___
 __Book Chapters__
 
 [B1] 付俊杰, 温广辉, Y.J. Xu, A. Zemouche, 张凡. Resilient cooperative control of input constrained networked cyber-physical systems. Security and Resilience in Cyber-Physical Systems: Detection, Estimation and Control, pp.267–298, Springer, 2022
@@ -171,15 +180,6 @@ __Conference Proceedings__
 [C2] 张凡, P. Ramazi, 曹明. Distributed concurrent targeting for linear arrays of point sources. IFAC World Congress, pp.8323-8328, Cape Town, South Africa, August 24-29, 2014
 
 [C1] 耿云海, W. Lu, 张凡. Robust sliding mode control for attitude control of small satellite. IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
-
-___
-__其它__
-
-[3] 何金刚, 张凡, 孟中杰, 周赢. 低过载比多弹自组织协同围捕打击方法. 国防科技大学学报, 48(1):175-182, 2026
-
-[2] 祝竺, 谢进进, 张凡, 张倩云. 惯性传感器在空间引力波探测任务中的控制策略研究. 飞控与探测, 8(6):89-94, 2025
-
-[1] H. Xu, X. Deng, 廖雪阳, 何金刚, 张凡. 航天器SDRE控制方法综述. 飞控与探测, 7(5):30-49, 2024
 
 
 <span class='anchor' id='Projects'></span>
