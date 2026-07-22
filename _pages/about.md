@@ -215,7 +215,7 @@ __其它__
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 
-<font color="orange">★ 以混学位为目的的同学请勿联系 ★</font>
+<font color="orange">★ 以混学位为目的的同学勿扰 ★</font>
 
 <span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习《现代控制理论》(刘豹, 第3版)、《Nonlinear Systems》(H. K. Khalil, 3rd)、《Sliding Mode Control and Observation》(Y. Shtessel) 或《Reinforcement Learning: An Introduction》(R. S. Sutton, 2nd)必要章节</span>
 
