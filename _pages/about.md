@@ -253,7 +253,7 @@ __Current undergraduate students__
 <span style="white-space:nowrap;"> <font color="green">有兴趣从事 医工结合 方向的本科生欢迎联系(如去医学院、生医工读研)</font> Control is ubiquitous😃 </span>
 -->
 
-2026.9 - : YiMing Chen, XinYu Hou
+2026.9 - : ZeXuan Chen, YiMing Chen, XinYu Hou
 
 
 __Current postdocs__
