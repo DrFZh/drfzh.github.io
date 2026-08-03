@@ -262,11 +262,6 @@ __Current Postdocs__
 
 
 ___
-__Former postdocs__
-
-2023.9 - 2026.8: HongFu Wang (讲师, 汕大) 
-
-___
 __Former master students__
 
 2023.9 - 2026.6: YaChuan Li (机械自动化工程师, 深圳捷佳伟创)
@@ -296,6 +291,10 @@ __Former undergraduate students__
 2023.11 - 2024.5: ZhiYang Sun (硕士生, SYSU)
 
 2022.11 - 2023.5: YuAng Ke (硕士生, SYSU), MingShuai Wu (硕士生, SYSU), Ke Xu (硕士生, PKU)
+
+__Former postdocs__
+
+2023.9 - 2026.8: HongFu Wang (讲师, 汕大) 
 
 
 <span class='anchor' id='Equipments'></span>
