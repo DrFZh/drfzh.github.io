@@ -254,14 +254,15 @@ __Current undergraduate students__
 2026.9 - : ZheXuan Chen, YiMing Chen, XinYu Hou
 
 
-<!--
 __Current Postdocs__
 
 ☁ 博士期间须有合格的科研训练 ☁
 
-2023.9 - : HongFu Wang
--->
 
+___
+__Former postdocs__
+
+2023.9 - 2026.8: HongFu Wang (讲师, 汕大) 
 
 ___
 __Former master students__
