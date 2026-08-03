@@ -40,7 +40,7 @@ My current research interests include Cooperative Target Estimation and Fencing 
 
 - <span style="white-space:nowrap;"> <font color="blue">Program Committee Member</font>: </span>
 
-  ACC, Philadelphia, PA, USA, July 6-9, 2027
+  American Control Conference, Philadelphia, PA, USA, July 6-9, 2027
   
   20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
 
