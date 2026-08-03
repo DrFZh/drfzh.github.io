@@ -256,7 +256,7 @@ __Current undergraduate students__
 2026.9 - : ZheXuan Chen, YiMing Chen, XinYu Hou
 
 
-__Current Postdocs__
+__Current postdocs__
 
 ☁ 博士期间须有合格的科研训练 ☁
 
