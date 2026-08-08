@@ -62,11 +62,11 @@ __Journal Articles__
 
 [J] R.T. Zhong, Z.M. Yang, J.L. Chen, 张雨浓, 李帅, 张凡. Predefined-time bearing-only mobile localization: An integral reciprocal zeroing neural network solution. _under review_
 
-[J] H.F. Wang, M. Tang, Z.M. Yang, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for high-order systems in observability canonical form under high-frequency measurement noise.  _under review_
+[J] 王宏福, M. Tang, Z.M. Yang, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for high-order systems in observability canonical form under high-frequency measurement noise.  _under review_
 
-[J35] H.F. Wang, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensor via a robust feedback-cascaded high-gain observer and nonlinear dynamic inversion with projection. <font color="blue">IEEE Transactions on Aerospace and Electronic Systems</font>, 62:12236-12248, June 2026
+[J35] 王宏福, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensor via a robust feedback-cascaded high-gain observer and nonlinear dynamic inversion with projection. <font color="blue">IEEE Transactions on Aerospace and Electronic Systems</font>, 62:12236-12248, June 2026
 
-[J34] Z.M. Yang, H.F. Wang, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. Advances in Space Research, 77(9):9483-9499, May 2026
+[J34] Z.M. Yang, 王宏福, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. Advances in Space Research, 77(9):9483-9499, May 2026
 
 [J33] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Singleton-free fencing control of unknown maneuver target. International Journal of Robust and Nonlinear Control, 36:3479–3487, 2026 
 
@@ -76,7 +76,7 @@ __Journal Articles__
 
 [J30] T. Wu, 张凡, 刘小旭, 崔磊, 谢进进. Synchronization of linear multi-agent systems: A dynamic observer approach. Asian Journal of Control, 1-16, December 2025
 
-[J29] H.F. Wang, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems</font>, 55(12):9669-9680, December 2025
+[J29] 王宏福, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems</font>, 55(12):9669-9680, December 2025
 
 [J28] 张凡, 金翠丽, 夏卫国, 孙希明, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, 197:1-8, March 2025
 
@@ -88,19 +88,19 @@ __Journal Articles__
 
 [J24] J.Z. Wu, 袁帅, 党庆庆, 张凡, 虞文武. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, 360(12):9050-9064, August 2023
 
-[J23] T.T. Zhang, 张世杰, F.Z. Guo, 赵祥天, 张凡. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, 137:160-174, June 2023
+[J23] 张婷婷, 张世杰, 郭凤至, 赵祥天, 张凡. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, 137:160-174, June 2023
 
 [J22] 王晓玲, 苏厚胜, 张凡, 陈关荣. A robust distributed interval observer for LTI systems. <font color="blue">IEEE Transactions on Automatic Control</font> _<font color="blue">full paper</font>_, 68(3):1337-1352, March 2023
 
-[J21] N. Wang, 温广辉, Y. Wang, 张凡, A. Zemouche. Fuzzy adaptive cooperative consensus tracking of high-order nonlinear multi-agent networks with guaranteed performances. <font color="blue">IEEE Transactions on Cybernetics</font>, 52(9):8838-8850, September 2022
+[J21] 王宁, 温广辉, Y. Wang, 张凡, A. Zemouche. Fuzzy adaptive cooperative consensus tracking of high-order nonlinear multi-agent networks with guaranteed performances. <font color="blue">IEEE Transactions on Cybernetics</font>, 52(9):8838-8850, September 2022
 
-[J20] N. Wang, Y. Wang, 温广辉, 吕茂隆, 张凡. Fuzzy adaptive constrained consensus tracking of high-order multi-agent networks: A new event-triggered mechanism. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems</font>, 52(9):5468-5480, September 2022
+[J20] 王宁, Y. Wang, 温广辉, 吕茂隆, 张凡. Fuzzy adaptive constrained consensus tracking of high-order multi-agent networks: A new event-triggered mechanism. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems</font>, 52(9):5468-5480, September 2022
 
 [J19] R.W. Zuo, Y.H. Li, 吕茂隆, Z.C. Liu, 张凡. Fuzzy adaptive output-feedback constrained trajectory tracking control for HFVs with fixed-time convergence. <font color="blue">IEEE Transactions on Fuzzy Systems</font>, 30(11): 4828-4840, September 2022
 
 [J18] 张凡, 温广辉, A. Zemouche, 虞文武, J. H. Park. Output feedback self-synchronization of directed Lur'e networks via global connectivity. <font color="blue">IEEE Transactions on Cybernetics</font>, 52(7):6490-6503, July 2022
 
-[J17] 张世杰, T.T. Zhang, 郭海波, 张凡. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
+[J17] 张世杰, 张婷婷, 郭海波, 张凡. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
 
 [J16] 李爽, 夏卫国, 张凡. Synchronization of continuous-time linear systems with time-varying output couplings. <font color="blue">IEEE Transactions on Industrial Informatics</font>, 18(1):143-152, January 2022
 
@@ -108,13 +108,13 @@ __Journal Articles__
 
 [J14] 王晓玲, 苏厚胜, 张凡, A. Zemouche, 陈关荣. Interval observer design and consensus of multi-agent systems with time-varying interval uncertainties. <font color="blue">SIAM Journal on Control and Optimization</font>, 59(5):3392-3417, 2021
 
-[J13] N. Wang, Y. Wang, J. H. Park, 吕茂隆, 张凡. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
+[J13] 王宁, Y. Wang, J. H. Park, 吕茂隆, 张凡. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
 
 [J12] P.F. Lu, 王和, 张凡, 虞文武, 陈关荣. Formation control of nonholonomic mobile robots using distributed estimators. <font color="blue">IEEE Transactions on Circuits and Systems II: Express Briefs</font>, 67(12):3162-3166, 2020
 
 [J11] 温广辉, 王佩君, 黄廷文, 吕金虎, 张凡. Distributed consensus of layered multi-agent systems subject to attacks on edges. <font color="blue">IEEE Transactions on Circuits and Systems I: Regular Papers</font>, 67(9):3152-3162, 2020
 
-[J10] F.Z. Guo, T.T. Zhang, 张凡, L. Gao, Z.P. Wang, 张世杰. Event-triggered coordinated attitude control for satellite formation under switching topology. Advanced Control for Applications: Engineering and Industrial Systems, 2(2):e34, 2020.
+[J10] 郭凤至, 张婷婷, 张凡, L. Gao, Z.P. Wang, 张世杰. Event-triggered coordinated attitude control for satellite formation under switching topology. Advanced Control for Applications: Engineering and Industrial Systems, 2(2):e34, 2020.
 
 [J9] A. Zemouche, 张凡, F. Mazenc, R. Rajamani. High-gain nonlinear observer design with lower tuning parameter. <font color="blue">IEEE Transactions on Automatic Control</font> _<font color="blue">full paper</font>_, 64(8):3194-3209, 2019
 
@@ -181,7 +181,7 @@ __Conference Proceedings__
 
 [C2] 张凡, P. Ramazi, 曹明. Distributed concurrent targeting for linear arrays of point sources. IFAC World Congress, pp.8323-8328, Cape Town, South Africa, August 24-29, 2014
 
-[C1] 耿云海, W. Lu, 张凡. Robust sliding mode control for attitude control of small satellite. IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
+[C1] 耿云海, 卢伟, 张凡. Robust sliding mode control for attitude control of small satellite. IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
 
 
 <span class='anchor' id='Projects'></span>
@@ -294,7 +294,7 @@ __Former undergraduate students__
 
 __Former postdocs__
 
-2023.9 - 2026.8: HongFu Wang (讲师, 汕大) 
+2023.9 - 2026.8: 王宏福 (讲师, 汕大) 
 
 
 <span class='anchor' id='Equipments'></span>
