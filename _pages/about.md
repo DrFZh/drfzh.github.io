@@ -217,7 +217,7 @@ __Conference Proceedings__
 <span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 
-<font color="orange">★ 以混学位为目的的同学勿扰 ★</font>
+<font color="orange">★以混学位为目的的同学勿扰★</font>
 
 <!--
 <span style="border-bottom:1px dashed #333;padding-bottom:2px;">同时推荐《Dissipative Systems Analysis and Control: Theory and Applications》(B. Brogliato, 3rd)、《L2-Gain and Passivity Techniques in Nonlinear Control》(A. van der Schaft, 3rd)、《A Course in Reinforcement Learning》(D. P. Bertsekas, 2nd)、《Robotics, Vision and Control: Fundamental Algorithms in MATLAB》(P. Corke, 3rd)、《Small Unmanned Aircraft: Theory and Practice》(R. Beard)</span>
