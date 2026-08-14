@@ -219,13 +219,13 @@ __Conference Proceedings__
 
 <font color="orange">★ 以混学位为目的的同学勿扰 ★</font>
 
-<span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习《现代控制理论》(刘豹, 第3版)、《Nonlinear Systems》(H. K. Khalil, 3rd)、《Sliding Mode Control and Observation》(Y. Shtessel) 或《Reinforcement Learning: An Introduction》(R. S. Sutton, 2nd)必要章节</span>
-
 <!--
 <span style="border-bottom:1px dashed #333;padding-bottom:2px;">同时推荐《Dissipative Systems Analysis and Control: Theory and Applications》(B. Brogliato, 3rd)、《L2-Gain and Passivity Techniques in Nonlinear Control》(A. van der Schaft, 3rd)、《A Course in Reinforcement Learning》(D. P. Bertsekas, 2nd)、《Robotics, Vision and Control: Fundamental Algorithms in MATLAB》(P. Corke, 3rd)、《Small Unmanned Aircraft: Theory and Practice》(R. Beard)</span>
 -->
 
 __Current Ph.D. students__
+
+<span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习《现代控制理论》(刘豹, 第3版)、《Nonlinear Systems》(H. K. Khalil, 3rd)、《Sliding Mode Control and Observation》(Y. Shtessel) 或《Reinforcement Learning: An Introduction》(R. S. Sutton, 2nd)必要章节</span>
 
 2027.9 - :
 
@@ -236,6 +236,8 @@ __Current Ph.D. students__
 __Current master students__
 
 ❤ 优先考虑 有<u>继续深造</u>计划(如出国) 或 对<u>工程实践</u>(算法、软硬件等)有强烈兴趣和执行力 的同学 ❤
+
+<span style="border-bottom:1px dashed #333;padding-bottom:2px;">强烈建议提前认真学习 https://docs.px4.io/main/zh/ 或《视觉SLAM十四讲：从理论到实践》(高翔, 第2版)</span>
 
 2027.9 - :
 
