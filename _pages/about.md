@@ -29,7 +29,9 @@ I received both the B.S. degree (advised by Prof. 何平) and the M.S. degree (a
 <span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
 
-My current research interests include Cooperative Target Estimation and Fencing Control, RL-Enhanced Cooperative Estimation and Control.
+- Cooperative Target Estimation, Pointing and Fencing Control
+
+- RL-Enhanced Cooperative Estimation and Control
 
 
 <span class='anchor' id='ProfessionalService'></span>
@@ -186,6 +188,8 @@ __Conference Proceedings__
 
 <span class='anchor' id='Projects'></span>
 # 💰 Projects
+
+XXX前端软件开发
 
 多X柔性编队围捕制导控制技术研究
 
