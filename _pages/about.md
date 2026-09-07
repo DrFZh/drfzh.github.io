@@ -54,6 +54,8 @@ I received both the B.S. degree (advised by Prof. 何平) and the M.S. degree (a
 
 __Journal Articles__
 
+[J] S.Y. Meng, 孟范伟, 张凡, Madjid Haddad, Marouane Alma, Ali Zemouche. Distributed high-gain/LMI state estimation for vehicle platoons. _submitted_
+
 [J] Z.M. Yang, R.T. Zhong, Y.H. Zhi, 张雨浓, 李帅, 张凡. Predefined-time integral reciprocal ZNN model and its discrete-time algorithm for bearing-only dynamic 3D localization. _under review_
 
 [J] Q.T. Lai, Z.M. Yang, 张凡, 郝立维, 范才智. Safe cooperative desired-distance fencing guidance for a 3D unknown maneuver target. _under review_
