@@ -308,7 +308,7 @@ __Former postdocs__
 <span class='anchor' id='Equipments'></span>
 # 🧰 Equipments
 
-<img src="https://github.com/DrFZh/drfzh.github.io/blob/main/images/%E9%9B%86%E7%BE%A4%E4%BB%BF%E7%9C%9F%E7%B3%BB%E7%BB%9F.SVG" width="400">
+<img src="assets/集群仿真系统.SVG" width="600">
 
 
 <span class='anchor' id='UsefulLinks'></span>
