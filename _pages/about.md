@@ -308,11 +308,7 @@ __Former postdocs__
 <span class='anchor' id='Equipments'></span>
 # 🧰 Equipments
 
-<div style="text-align: left;">
-<img src="../images/集群仿真系统.SVG" width="800">
-</div>
-
-<img src="../images/集群仿真系统.SVG" width="800" style="display:block; text-align:left;">
+<img src="../images/集群仿真系统.SVG" width="800" style="display:block; text-align:left; margin-top:0px;">
 
 
 <span class='anchor' id='UsefulLinks'></span>
