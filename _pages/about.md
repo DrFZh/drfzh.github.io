@@ -312,6 +312,8 @@ __Former postdocs__
 <img src="../images/集群仿真系统.SVG" width="800">
 </div>
 
+<img src="../images/集群仿真系统.SVG" width="800" style="display:block; text-align:left;">
+
 
 <span class='anchor' id='UsefulLinks'></span>
 #  Useful Links
