@@ -309,7 +309,7 @@ __Former postdocs__
 # 🧰 Equipments
 <div aligh="left">
 <img src="../images/集群仿真系统.SVG" width="800">
-</div>div>
+</div>
 
 
 <span class='anchor' id='UsefulLinks'></span>
