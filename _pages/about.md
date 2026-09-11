@@ -323,6 +323,8 @@ __Former postdocs__
 <span class='anchor' id='UsefulLinks'></span>
 #  Useful Links
 
+<a href="https://doi.org/10.2514/1.G006191" style="text-decoration:none;">What is Guidance?</a>
+<a href="https://doi.org/10.2514/1.G006817" style="text-decoration:none;">What is Navigation?</a>
 <a href="https://doi.org/10.2514/1.G007902" style="text-decoration:none;">What is Control?</a>
 
 ieeecss.org/conferences/all
