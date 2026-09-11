@@ -302,7 +302,7 @@ __Former undergraduate students__
 
 __Former postdocs__
 
-2023.9 - 2026.8: 王宏福 (讲师, 汕大) 
+2023.9 - 2026.8: <a href="https://eng.stu.edu.cn/info/1084/15351.htm" style="color:black;text-decoration:none" title="访问其主页">王宏福</a> (讲师, 汕大) 
 
 
 <span class='anchor' id='Equipments'></span>
