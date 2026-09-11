@@ -315,7 +315,7 @@ __Former postdocs__
      clip-path: inset(40px 0px 30px 0px);
      margin-left: -20px;
      margin-right: -40px;
-     margin-top: -20px;
+     margin-top: -30px;
      margin-bottom: 0px;">
 </div>
 
