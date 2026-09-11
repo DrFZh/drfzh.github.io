@@ -309,6 +309,12 @@ __Former postdocs__
 # 🧰 Equipments
 <div aligh="left">
 <img src="../images/集群仿真系统.SVG" width="800">
+<img src="../images/集群仿真系统.SVG" width="800" style="
+    clip-path: inset(40px 0px 30px 0px);
+    margin-left: -40px;
+    margin-right: -40px;
+    margin-top: -50px;
+    margin-bottom: -40px;">
 </div>
 
 
