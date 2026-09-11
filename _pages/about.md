@@ -313,10 +313,10 @@ __Former postdocs__
      width="800"
      style="
      clip-path: inset(40px 0px 30px 0px);
-     margin-left: -40px;
+     margin-left: -20px;
      margin-right: -40px;
-     margin-top: -50px;
-     margin-bottom: -40px;">
+     margin-top: -30px;
+     margin-bottom: -20px;">
 </div>
 
 
