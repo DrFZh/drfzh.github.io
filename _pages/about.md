@@ -330,3 +330,5 @@ __Former postdocs__
 ieeecss.org/conferences/all
 
 www.ifac-control.org/conferences
+
+<a href="https://github.com/huangxg/lnotes" style="text-decoration:none;">LaTeX Notes</a>
