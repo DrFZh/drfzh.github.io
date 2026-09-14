@@ -33,6 +33,8 @@ I received both the B.S. degree (advised by Prof. 何平) and the M.S. degree (a
 
 - RL-Enhanced Cooperative Estimation and Control
 
+- Distributed Computation, Estimation and control
+
 - Cross-Domain Heterogeneous Multi-Robot Systems
 
 
