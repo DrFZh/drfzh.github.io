@@ -56,6 +56,8 @@ I received both the B.S. degree (advised by Prof. 何平) and the M.S. degree (a
 
 __Journal Articles__
 
+[J] 郝立维, C. Liu, 范才智, 张凡, 李化义. Finite-Budget Policy Optimization Under High-Order Safety Constraints for Orbital Games With Multiple Noncooperative Targets. _submitted_
+
 [J] S.Y. Meng, 孟范伟, 张凡, Madjid Haddad, Marouane Alma, Ali Zemouche. Distributed high-gain/LMI state estimation for vehicle platoons. _submitted_
 
 [J] Z.M. Yang, R.T. Zhong, Y.H. Zhi, 张雨浓, 李帅, 张凡. Predefined-time integral reciprocal ZNN model and its discrete-time algorithm for bearing-only dynamic 3D localization. _under review_
