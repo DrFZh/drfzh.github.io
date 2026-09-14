@@ -336,3 +336,5 @@ www.ifac-control.org/conferences
 ieeecss.org/conferences/all
 
 <a href="https://github.com/huangxg/lnotes" style="text-decoration:none;">LaTeX Notes</a>
+
+<a href="https://yalmip.github.io/" style="text-decoration:none;">YALMIP</a>
