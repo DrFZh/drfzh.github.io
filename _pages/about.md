@@ -335,9 +335,7 @@ __Former postdocs__
 
 <a href="https://link.springer.com/referencework/10.1007/978-3-030-44184-5" style="text-decoration:none;">Encyclopedia of Systems and Control</a>
 
-www.ifac-control.org/conferences
-
-ieeecss.org/conferences/all
+ieeecss.org/conferences/all, www.ifac-control.org/conferences
 
 <a href="https://github.com/huangxg/lnotes" style="text-decoration:none;">LaTeX Notes</a>
 
