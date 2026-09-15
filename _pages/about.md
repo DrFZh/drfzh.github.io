@@ -332,7 +332,6 @@ __Former postdocs__
 <a href="https://doi.org/10.2514/1.G006191" style="text-decoration:none;">What is Guidance?</a>
 <a href="https://doi.org/10.2514/1.G006817" style="text-decoration:none;">What is Navigation?</a>
 <a href="https://doi.org/10.2514/1.G007902" style="text-decoration:none;">What is Control?</a>
-
 <a href="https://link.springer.com/referencework/10.1007/978-3-030-44184-5" style="text-decoration:none;">Encyclopedia of Systems and Control</a>
 
 ieeecss.org/conferences/all, www.ifac-control.org/conferences
