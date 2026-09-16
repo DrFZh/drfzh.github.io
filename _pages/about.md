@@ -62,17 +62,17 @@ __Journal Articles__
 
 [J] S.Y. Meng, 孟范伟, 张凡, Madjid Haddad, Marouane Alma, Ali Zemouche. Distributed high-gain/LMI state estimation for vehicle platoons. _submitted_
 
-[J] Z.M. Yang, R.T. Zhong, Y.H. Zhi, 张雨浓, 李帅, 张凡. Predefined-time integral reciprocal ZNN model and its discrete-time algorithm for bearing-only dynamic 3D localization. _under review_
-
 [J] Q.T. Lai, Z.M. Yang, 张凡, 郝立维, 范才智. Safe cooperative desired-distance fencing guidance for a 3D unknown maneuver target. _under review_
-
-[J] Y.C. Li, 夏卫国, 张凡, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review_
 
 [J] C. Liu, 郝立维, 叶东, 张凡, 范才智. Fully distributed fencing control of an unknown maneuver target by multi-agent systems under external disturbances. _under review_
 
 [J] R.T. Zhong, Z.M. Yang, J.L. Chen, 张雨浓, 李帅, 张凡. Predefined-time bearing-only mobile localization: An integral reciprocal zeroing neural network solution. _under review_
 
 [J] 王宏福, M. Tang, Z.M. Yang, 范正平, 张凡. Filtered feedback-cascaded high-gain observers for high-order systems in observability canonical form under high-frequency measurement noise.  _under review_
+
+[J] Y.C. Li, 夏卫国, 张凡, 曹明. Cooperative target-pointing control of multi-robot systems without global coordinate frame. _under review 2nd round_
+
+[J] Z.M. Yang, R.T. Zhong, Y.H. Zhi, 张雨浓, 李帅, 张凡. Predefined-time integral reciprocal ZNN model and its discrete-time algorithm for bearing-only dynamic 3D localization. _under review 2nd round_
 
 [J35] 王宏福, 李文博, 薛文超, 范正平, 张凡. Output feedback control of space inertial sensor via a robust feedback-cascaded high-gain observer and nonlinear dynamic inversion with projection. <font color="blue">IEEE Transactions on Aerospace and Electronic Systems</font>, 62:12236-12248, June 2026
 
