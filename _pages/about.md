@@ -31,9 +31,9 @@ I received both the B.S. degree (advised by Prof. 何平) and the M.S. degree (a
 
 - Cooperative Target Estimation, Pointing and Fencing Control
 
-- RL-Enhanced Cooperative Estimation and Control
-
 - Cooperative Computation via Distributed Neurodynamics
+
+- RL-Enhanced Distributed Coordination
 
 - Cross-Domain Heterogeneous Multi-Robot Systems
 
