@@ -84,17 +84,17 @@ __Journal Articles__
 
 [J31] Y.A. Ke, C. Liu, 何金刚, 张凡. Self-organizing fencing formation control of quadrotor swarms under actuator saturation. <font color="blue">Aerospace Science and Technology</font>, 169:111385, February 2026
 
-[J30] T. Wu, 张凡, 刘小旭, 崔磊, 谢进进. Synchronization of linear multi-agent systems: A dynamic observer approach. Asian Journal of Control, 1-16, December 2025
+[J30] 王宏福, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems</font>, 55(12):9669-9680, December 2025
 
-[J29] 王宏福, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems</font>, 55(12):9669-9680, December 2025
+[J29] T. Wu, 张凡, 刘小旭, 崔磊, 谢进进. Synchronization of linear multi-agent systems: A dynamic observer approach. Asian Journal of Control, 1-16, December 2025
 
 [J28] 张凡, 金翠丽, 夏卫国, 孙希明, H. Bai. Cooperative pointing control of multi-robot systems via distributed target estimation. Systems & Control Letters, 197:1-8, March 2025
 
 [J27] S.Y. Meng, 孟范伟, 张凡, Q. Li, Y. Zhang, A. Zemouche. Observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications. <font color="blue">Automatica</font> _<font color="blue">regular paper</font>_, 162:1-12, April 2024
 
-[J26] P. Ramazi, 张凡, 曹明. Cooperative concurrent targeting for planar arrays of point sources. <font color="blue">Automatica</font>, 159:1-7, January 2024
+[J26] 张凡, 李元龙, 夏卫国, 刘涛, 虞文武. Synchronization of Lur'e networks via heterogeneous unknown interconnections. <font color="blue">IEEE Transactions on Circuits and Systems II: Express Briefs</font>, 71(2):807-811, February 2024
 
-[J25] 张凡, 李元龙, 夏卫国, 刘涛, 虞文武. Synchronization of Lur'e networks via heterogeneous unknown interconnections. <font color="blue">IEEE Transactions on Circuits and Systems II: Express Briefs</font>, 71(2):807-811, February 2024
+[J25] P. Ramazi, 张凡, 曹明. Cooperative concurrent targeting for planar arrays of point sources. <font color="blue">Automatica</font>, 159:1-7, January 2024
 
 [J24] J.Z. Wu, 袁帅, 党庆庆, 张凡, 虞文武. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, 360(12):9050-9064, August 2023
 
@@ -120,19 +120,19 @@ __Journal Articles__
 
 [J13] 王宁, Y. Wang, J. H. Park, 吕茂隆, 张凡. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
 
-[J12] P.F. Lu, 王和, 张凡, 虞文武, 陈关荣. Formation control of nonholonomic mobile robots using distributed estimators. <font color="blue">IEEE Transactions on Circuits and Systems II: Express Briefs</font>, 67(12):3162-3166, 2020
+[J12] 温广辉, 王佩君, 黄廷文, 吕金虎, 张凡. Distributed consensus of layered multi-agent systems subject to attacks on edges. <font color="blue">IEEE Transactions on Circuits and Systems I: Regular Papers</font>, 67(9):3152-3162, 2020
 
-[J11] 温广辉, 王佩君, 黄廷文, 吕金虎, 张凡. Distributed consensus of layered multi-agent systems subject to attacks on edges. <font color="blue">IEEE Transactions on Circuits and Systems I: Regular Papers</font>, 67(9):3152-3162, 2020
+[J11] P.F. Lu, 王和, 张凡, 虞文武, 陈关荣. Formation control of nonholonomic mobile robots using distributed estimators. <font color="blue">IEEE Transactions on Circuits and Systems II: Express Briefs</font>, 67(12):3162-3166, 2020
 
 [J10] 郭凤至, 张婷婷, 张凡, L. Gao, Z.P. Wang, 张世杰. Event-triggered coordinated attitude control for satellite formation under switching topology. Advanced Control for Applications: Engineering and Industrial Systems, 2(2):e34, 2020.
 
 [J9] A. Zemouche, 张凡, F. Mazenc, R. Rajamani. High-gain nonlinear observer design with lower tuning parameter. <font color="blue">IEEE Transactions on Automatic Control</font> _<font color="blue">full paper</font>_, 64(8):3194-3209, 2019
 
-[J8] 成晓东, J. M.A. Scherpen, 张凡. Model reduction of synchronized Lur'e networks with incrementally sector-bounded nonlinearities. European Journal of Control, 50:11-19, November 2019
+[J8] 袁帅, 张凡, S. Baldi. Adaptive tracking of switched nonlinear systems with prescribed performance using a reference-dependent reparametrization approach. International Journal of Control, 92(6): 1243-1251, 2019
 
-[J7] S. Baldi, 张凡, T. L. Quang, P. Endel, O. Holu. Passive versus active learning in operation and adaptive maintenance of heating, ventilation, and air conditioning. Applied Energy, 252:113478, October 2019
+[J7] 成晓东, J. M.A. Scherpen, 张凡. Model reduction of synchronized Lur'e networks with incrementally sector-bounded nonlinearities. European Journal of Control, 50:11-19, November 2019
 
-[J6] 袁帅, 张凡, S. Baldi. Adaptive tracking of switched nonlinear systems with prescribed performance using a reference-dependent reparametrization approach. International Journal of Control, 92(6): 1243-1251, 2019
+[J6] S. Baldi, 张凡, T. L. Quang, P. Endel, O. Holu. Passive versus active learning in operation and adaptive maintenance of heating, ventilation, and air conditioning. Applied Energy, 252:113478, October 2019
 
 [J5] 张凡, H. L. Trentelman, 冯刚, J. M.A. Scherpen. Absolute stabilization of Lur'e systems via dynamic output feedback. European Journal of Control, 44:15-26, November 2018
 
