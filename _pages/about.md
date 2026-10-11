@@ -78,11 +78,11 @@ __Journal Articles__
 
 [J34] Z.M. Yang, 王宏福, H. Xu, 谢进进, 张凡, 祝竺. State-dependent Riccati equation control of space inertial sensors via filtered feedback-cascaded extended high-gain observers. Advances in Space Research, 77(9):9483-9499, May 2026
 
-[J33] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Singleton-free fencing control of unknown maneuver target. International Journal of Robust and Nonlinear Control, 36:3479–3487, 2026 
+[J33] 胡鸿翔, 温广辉, 陈云, 张凡, 黄廷文. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. <font color="blue">IEEE Transactions on Cybernetics</font>, 5(3):1555-1568, March 2026
 
-[J32] 胡鸿翔, 温广辉, 陈云, 张凡, 黄廷文. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. <font color="blue">IEEE Transactions on Cybernetics</font>, 5(3):1555-1568, March 2026
+[J32] Y.A. Ke, C. Liu, 何金刚, 张凡. Self-organizing fencing formation control of quadrotor swarms under actuator saturation. <font color="blue">Aerospace Science and Technology</font>, 169:111385, February 2026
 
-[J31] Y.A. Ke, C. Liu, 何金刚, 张凡. Self-organizing fencing formation control of quadrotor swarms under actuator saturation. <font color="blue">Aerospace Science and Technology</font>, 169:111385, February 2026
+[J31] C. Liu, 陈智勇, 陈飞, 虞文武, 张凡. Singleton-free fencing control of unknown maneuver target. International Journal of Robust and Nonlinear Control, 36:3479–3487, 2026 
 
 [J30] 王宏福, 温广辉, 薛文超, 范正平, 张凡. Peak-free feedback-cascaded generalized extended high-gain observer: A multi-saturation approach. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems</font>, 55(12):9669-9680, December 2025
 
