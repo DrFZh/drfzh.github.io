@@ -58,9 +58,9 @@ I received both the B.S. degree (advised by Prof. 何平) and the M.S. degree (a
 
 __Journal Articles__
 
-[J] 郝立维, C. Liu, 范才智, 张凡, 李化义. Finite-budget policy optimization under high-order safety constraints for orbital games with multiple noncooperative targets. _submitted_
+[J] 郝立维, C. Liu, 范才智, 张凡, 李化义. Finite-budget policy optimization under high-order safety constraints for orbital games with multiple noncooperative targets. _under review_
 
-[J] S.Y. Meng, 孟范伟, 张凡, Madjid Haddad, Marouane Alma, Ali Zemouche. Distributed high-gain/LMI state estimation for vehicle platoons. _submitted_
+[J] S.Y. Meng, 孟范伟, 张凡, Madjid Haddad, Marouane Alma, Ali Zemouche. Distributed high-gain/LMI state estimation for vehicle platoons. _under review_
 
 [J] Q.T. Lai, Z.M. Yang, 张凡, 郝立维, 范才智. Safe cooperative desired-distance fencing guidance for a 3D unknown maneuver target. _under review_
 
