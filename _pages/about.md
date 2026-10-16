@@ -58,6 +58,8 @@ I received both the B.S. degree (advised by Prof. 何平) and the M.S. degree (a
 
 __Journal Articles__
 
+[J] Z.H. Gao, Y.C. Li, X.Q. Luo, L.D. Wang, 张锦绣, 王继河, 张凡. Cooperative net-based interception trajectory planning for multi-UAV counter-UAS defense. _submitted_​
+
 [J] 何金刚, Q.T. Lai, 王宏福, 张凡, 孟中杰. Peaking-free high-gain observer based guidance for 3D three-body engagements under noisy LOS-angle measurements. _under review_
 
 [J] 郝立维, C. Liu, 范才智, 张凡, 李化义. Finite-budget policy optimization under high-order safety constraints for orbital games with multiple noncooperative targets. _under review_
